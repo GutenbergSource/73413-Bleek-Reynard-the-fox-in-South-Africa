@@ -1,0 +1,1987 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+    <!ENTITY Chi     CDATA "&#x03A7;"  --       3 -->
+    <!ENTITY aclick  CDATA "&#x01C2;"  --      19 -->
+    <!ENTITY amacr   CDATA "&#x0101;"  --       1 -->
+    <!ENTITY apos    CDATA "&#x2019;"  --     173 -->
+    <!ENTITY ast     CDATA "*"         --       3 -->
+    <!ENTITY chi     CDATA "&#x03C7;"  --      11 -->
+    <!ENTITY dclick  CDATA "&#x01C0;"  --      10 -->
+    <!ENTITY ebreve  CDATA "&#x0115;"  --       1 -->
+    <!ENTITY etilde  CDATA "&#x1EBD;"  --       1 -->
+    <!ENTITY lclick  CDATA "&#x01C1;"  --       3 -->
+    <!ENTITY ldquo   CDATA "&#x201C;"  --     390 -->
+    <!ENTITY lsquo   CDATA "&#x2018;"  --      25 -->
+    <!ENTITY mdash   CDATA "&#x2014;"  --      70 -->
+    <!ENTITY nbsp    CDATA "&#x00A0;"  --       2 -->
+    <!ENTITY ndash   CDATA "&#x2013;"  --       2 -->
+    <!ENTITY oelig   CDATA "&#x0153;"  --       1 -->
+    <!ENTITY rclick  CDATA "&#x01C3;"  --       9 -->
+    <!ENTITY rdquo   CDATA "&#x201D;"  --     382 -->
+    <!ENTITY rsquo   CDATA "&#x2019;"  --      26 -->
+    <!ENTITY umacr   CDATA "&#x016B;"  --       1 -->
+
+]>
+<TEI.2 lang=en>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Reynard the fox in South Africa</title>
+<author key="Bleek, Wilhelm Heinrich Immanuel" ref="https://viaf.org/viaf/92145857803623020415/">Wilhelm Heinrich Immanuel Bleek (1827&ndash;1875)</author>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=LCCN>#####</idno>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=LibThing>#####</idno>
+<idno type=PGclearance>20200404050156bleek</idno>
+<idno type=PGDPProjectId>projectID5e8b650c1c374</idno>
+<idno type=PGSrc>73413-Bleek-Reynard-the-fox-in-South-Africa</idno>
+<idno type=epub-id>urn:uuid:5372613c-099d-41aa-95c4-fc2e8ea99286</idno>
+<idno type=PGnum>73413</idno>
+<date>2024-04-17</date>
+<availability>
+<p>&availability.en;
+
+<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type=Credits>Produced by Jeroen Hellingman and the Online Distributed Proofreading Team at https://www.pgdp.net/ for Project Gutenberg.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>W. H. I. Bleek</author>
+<title>Reynard the fox in South Africa</title>
+<date>1864</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+    <tagsDecl lang=zxx>
+        <rendition selector=.xs>font-size: x-small;</rendition>
+        <rendition selector=.small>font-size: small;</rendition>
+        <rendition selector=.large>font-size: large;</rendition>
+        <rendition selector=.xl>font-size: x-large;</rendition>
+        <rendition selector=.bold>font-weight: bold;</rendition>
+        <rendition selector=.sans>font-family: sans-serif;</rendition>
+        <rendition selector=.vam>vertical-align: middle;</rendition>
+        <rendition selector=.center>text-align: center;</rendition>
+    </tagsDecl>
+    <p></p>
+</encodingDesc>
+<profileDesc>
+    <langUsage>
+        <language id=en>English</language>
+        <language id=de>German</language>
+        <language id=la>Latin</language>
+        <language id=naq>Khoekhoe language</language>
+        <language id=zxx>No linguistic content</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>Fables, African</item>
+                <item>Fables, Khoikhoi</item>
+                <item>Khoikhoi (African people) -- Folklore</item>
+            </list>
+        </keywords>
+    </textClass>
+    <listPrefixDef>
+        <prefixDef ident="f" matchPattern="(.+)" replacementPattern="https://www.pgdp.net/c/tools/page_browser.php?project=projectID5e8b650c1c374&amp;imagefile=$1.png&amp;mode=image">
+    </listPrefixDef>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2024-03-24 Started.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/frontcover.jpg)">
+<figDesc>Original Front Cover.</figDesc>
+</figure>
+
+
+
+
+
+
+<pb id=pb.i facs="f:001">
+<div1 id=french type=FrenchTitle>
+
+
+<p rend="center xl">REYNARD THE FOX IN SOUTH AFRICA;
+
+<p rend=center>OR,
+
+<p rend="center large">HOTTENTOT FABLES AND TALES.
+
+
+
+
+<pb id=pb.iii facs="f:003">
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)">
+<figDesc>Original Title Page.</figDesc>
+</figure>
+
+
+
+
+
+<titlePage>
+<docTitle><titlePart>REYNARD THE FOX
+<lb>IN
+<lb>SOUTH AFRICA;</titlePart>
+
+<titlePart type=sub>OR,
+<lb>Hottentot Fables and Tales.</titlePart>
+
+<titlePart type=sub>CHIEFLY TRANSLATED FROM ORIGINAL MANUSCRIPTS
+<lb>IN THE
+<lb>LIBRARY
+<lb>OF
+<lb>HIS EXCELLENCY SIR GEORGE GREY, K.C.B.</titlePart>
+</docTitle>
+
+
+<byline>
+<docAuthor>W. H. I. BLEEK, <hi rend=sc>Ph.D.</hi></docAuthor>
+</byline>
+
+<!-- [Illustration] -->
+
+<docImprint>LONDON:
+<lb>TRÜBNER AND CO., 60, PATERNOSTER ROW.
+<lb><docDate>1864.</docDate>
+
+<lb><hi rend=small>[<hi>The Right of Translation is reserved.</hi>]</hi>
+</docImprint>
+</titlePage>
+
+
+
+<pb id=pb.iv facs="f:004">
+<div1 id=imprint type=Imprint>
+
+
+<p rend=center>LONDON:
+
+<p rend="center small">WILLIAM STEVENS, PRINTER, 37, BELL YARD, <lb>TEMPLE BAR.
+
+
+
+
+<pb id=pb.v facs="f:005">
+<div1 id=dedic type=Dedication>
+
+
+<p rend=center>THIS BOOK BELONGS TO
+
+<p rend="center large">CHILDREN IN SOUTH AFRICA AND ELSEWHERE,
+
+<p rend=center>AND TO THEIR FRIEND
+
+<p rend="center large">SIR GEORGE GREY, K.C.B.,
+
+<p rend=center>NOW IN NEW ZEALAND.
+
+
+
+
+
+<pb id=pb.vii n=vii facs="f:007">
+<div1 id=toc type=Contents>
+<head>CONTENTS.</head>
+
+
+<p rend=tocChapter><ab type=tocDivNum>I.</ab> <hi rend=sc><ref target=ch1>Jackal Fables</ref>.</hi>
+
+<list type=tocList>
+<item>      <ab type=tocPageNum rend=xs>PAGE</ab>
+
+<item><ab type=tocDivNum>1.</ab> <ref target=ch1.1>The Lion&apos;s Defeat</ref>      <ab type=tocPageNum>1</ab>
+<item><ab type=tocDivNum>2.</ab> <ref target=ch1.2>The Hunt of the Lion and Jackal</ref>      <ab type=tocPageNum>3</ab>
+<item><ab type=tocDivNum>3.</ab> <ref target=ch1.3>The Lion&apos;s Share</ref>      <ab type=tocPageNum>5</ab>
+<item><ab type=tocDivNum>4.</ab> <ref target=ch1.4>The Jackal&apos;s Bride</ref>       <ab type=tocPageNum>9</ab>
+<item><ab type=tocDivNum>5.</ab> <ref target=ch1.5>The White Man and the Snake</ref>      <ab type=tocPageNum>11</ab>
+<item><ab type=tocDivNum>6.</ab> <ref target=ch1.6>Another Version of the same Fable</ref>      <ab type=tocPageNum>13</ab>
+<item><ab type=tocDivNum>7.</ab> <ref target=ch1.7>Cloud-Eating</ref>      <ab type=tocPageNum>14</ab>
+<item><ab type=tocDivNum>8.</ab> <ref target=ch1.8>Fish-Stealing</ref>      <ab type=tocPageNum>16</ab>
+<item><ab type=tocDivNum>9.</ab> <ref target=ch1.9>Which was the Thief?</ref>      <ab type=tocPageNum>18</ab>
+<item><ab type=tocDivNum>10.</ab> <ref target=ch1.10>The Lion&apos;s Illness</ref>      <ab type=tocPageNum>19</ab>
+<item><ab type=tocDivNum>11.</ab> <ref target=ch1.11>The Dove and the Heron</ref>      <ab type=tocPageNum>21</ab>
+<item><ab type=tocDivNum>12.</ab> <ref target=ch1.12>The Cock</ref>      <ab type=tocPageNum>23</ab>
+<item><ab type=tocDivNum>13.</ab> <ref target=ch1.13>The Leopard and the Ram</ref>      <ab type=tocPageNum>24</ab>
+</list>
+
+
+<p rend=tocChapter><ab type=tocDivNum>II.</ab> <hi rend=sc><ref target=ch2>Tortoise Fables</ref>.</hi>
+
+<list type=tocList>
+<item><ab type=tocDivNum>14.</ab> <ref target=ch2.14>The Elephant and the Tortoise</ref>      <ab type=tocPageNum>27</ab>
+<item><ab type=tocDivNum>15.</ab> <ref target=ch2.15>The Giraffe and the Tortoise</ref>      <ab type=tocPageNum>30</ab>
+<item><ab type=tocDivNum>16.</ab> <ref target=ch2.16>The Tortoises Hunting the Ostriches</ref>      <ab type=tocPageNum>32</ab>
+</list>
+
+
+<pb id=pb.viii n=viii facs="f:008"><p rend=tocChapter><ab type=tocDivNum>III.</ab> <hi rend=sc><ref target=ch3>Baboon Fables</ref>.</hi>
+
+<list type=tocList>
+<item><ab type=tocDivNum>17.</ab> <ref target=ch3.17>The Judgment of the Baboon</ref>      <ab type=tocPageNum>33</ab>
+<item><ab type=tocDivNum>18.</ab> <ref target=ch3.18>The Lion and the Baboon</ref>      <ab type=tocPageNum>37</ab>
+<item><ab type=tocDivNum>19.</ab> <ref target=ch3.19>The Zebra Stallion</ref>      <ab type=tocPageNum>39</ab>
+<item><ab type=tocDivNum>20.</ab> <ref target=ch3.20>The Lost Child (a Tale)</ref>      <ab type=tocPageNum>42</ab>
+<item><ab type=tocDivNum>21.</ab> <ref target=ch3.21>The Baboon Shepherd (a Tale)</ref>      <ab type=tocPageNum>44</ab>
+</list>
+
+
+<p rend=tocChapter><ab type=tocDivNum>IV.</ab> <hi rend=sc><ref target=ch4>Lion Fables</ref>.</hi>
+
+<list type=tocList>
+<item><ab type=tocDivNum>22.</ab> <ref target=ch4.22>The Flying Lion</ref>      <ab type=tocPageNum>45</ab>
+<item><ab type=tocDivNum>23.</ab> <ref target=ch4.23>The Lion who thought himself Wiser than his Mother</ref>      <ab type=tocPageNum>47</ab>
+<item><ab type=tocDivNum>24.</ab> <ref target=ch4.24>The Lion who took a Woman&apos;s Shape</ref>      <ab type=tocPageNum>50</ab>
+<item><ab type=tocDivNum>25.</ab> <ref target=ch4.25>A Woman transformed into a Lion (a Tale)</ref>      <ab type=tocPageNum>57</ab>
+<item><ab type=tocDivNum>26.</ab> <ref target=ch4.26>The Lion and the Bushman (a Tale)</ref>      <ab type=tocPageNum>59</ab>
+</list>
+
+
+<p rend=tocChapter><ab type=tocDivNum>V.</ab> <hi rend=sc><ref target=ch5>Various Fables</ref>.</hi>
+
+<list type=tocList>
+<item><ab type=tocDivNum>27.</ab> <ref target=ch5.27>How a Nama Woman outwitted the Elephants</ref>      <ab type=tocPageNum>61</ab>
+<item><ab type=tocDivNum>28.</ab> <ref target=ch5.28>A Bad Sister</ref>      <ab type=tocPageNum>65</ab>
+</list>
+
+
+<p rend=tocChapter><ab type=tocDivNum>VI.</ab> <hi rend=sc><ref target=ch6>Sun and Moon Fables</ref>.</hi>
+
+<list type=tocList>
+<item><ab type=tocDivNum>29.</ab> <ref target=ch6.29>Why has the Jackal a long black Stripe on his Back?</ref>      <ab type=tocPageNum>67</ab>
+<item><ab type=tocDivNum>30.</ab> <ref target=ch6.30>The Horse cursed by the Sun</ref>      <ab type=tocPageNum>68</ab>
+<item><ab type=tocDivNum>31.</ab> <ref target=ch6.31>The Origin of Death</ref>      <ab type=tocPageNum>69</ab>
+<item><ab type=tocDivNum>32.</ab> <ref target=ch6.32>Another Version of the same Fable</ref>      <ab type=tocPageNum>71</ab>
+<item><ab type=tocDivNum>33.</ab> <ref target=ch6.33>A Third Version of the same Fable</ref>      <ab type=tocPageNum>72</ab>
+<pb id=pb.ix n=ix facs="f:009"><item><ab type=tocDivNum>34.</ab> <ref target=ch6.34>A Fourth Version of the same Fable</ref>      <ab type=tocPageNum>73</ab>
+<item><ab type=tocDivNum>35.</ab> <ref target=ch6.35>A Zulu Version of the Legend of the &ldquo;Origin of Death&rdquo;</ref>      <ab type=tocPageNum>74</ab>
+</list>
+
+
+<p rend=tocChapter><ab type=tocDivNum>VII.</ab> <hi rend=sc><ref target=ch7>Heitsi Eibip and other Legends</ref>.</hi>
+
+<list type=tocList>
+<item><ab type=tocDivNum>36.</ab> <ref target=ch7.36>Heitsi Eibip</ref>      <ab type=tocPageNum>75</ab>
+<item><ab type=tocDivNum>37.</ab> <ref target=ch7.37>The Victory of Heitsi Eibip</ref>      <ab type=tocPageNum>77</ab>
+<item><ab type=tocDivNum>38.</ab> <ref target=ch7.38>Another Version of the same Legend</ref>      <ab type=tocPageNum>78</ab>
+<item><ab type=tocDivNum>39.</ab> <ref target=ch7.39>The Raisin-Eater</ref>      <ab type=tocPageNum>80</ab>
+<item><ab type=tocDivNum>40.</ab> <ref target=ch7.40>Origin of the Difference in Modes of Life between Hottentots and Bushmen</ref>      <ab type=tocPageNum>83</ab>
+</list>
+
+
+<p rend=tocChapter><ab type=tocDivNum>VIII.</ab> <hi rend=sc><ref target=ch8>Household Tales</ref>.</hi>
+
+<list type=tocList>
+<item><ab type=tocDivNum>41.</ab> <ref target=ch8.41>The Little Wise Woman</ref>      <ab type=tocPageNum>85</ab>
+<item><ab type=tocDivNum>42.</ab> <ref target=ch8.42>The Unreasonable Child to whom the Dog gave its Deserts; or, a Receipt for getting any one to Sleep</ref>      <ab type=tocPageNum>90</ab>
+</list>
+
+
+
+
+
+<pb id=pb.xi n=xi facs="f:011">
+<div1 id=preface type=Preface>
+<head>PREFACE.</head>
+
+
+<p rend=salute><hi rend=sc>My dear Sir George</hi>,
+
+<p>In inscribing to you this little book, I do no more than offer that which is your due, as its appearance is mainly owing to you. It was by your desire that I wrote, in 1861, to different Missionaries in South Africa, requesting them to make collections of Native Literature, similar in nature to those which, through your instrumentality, had been so abundantly rescued from oblivion in New Zealand. I then wrote, among others, to the Rev. G. Krönlein, Rhenish Missionary at Beerseba, Great Namaqualand; but it was not till after you had left us, on a new mission of honour and duty, that I received from him (at five different periods) the original manuscripts from which most of the Fables given here are translated. He sent us, altogether, twenty-four <pb id=pb.xii n=xii facs="f:012">Fables, Tales, and Legends, besides twelve Songs of Praise, thirty-two Proverbs, and twelve Riddles; all in Hottentot (as taken down by him from the mouth of the Natives) and German, partly accompanied by explanatory notes, including fragments of the <hi lang=naq>&dclick;N&umacr;sa</hi><note n=A>Cisgariepian, from the Nama point of view, <hi>i.e.</hi>, to the North of the Orange River.</note> Bushman language. Mr. Krönlein&apos;s manuscripts fill sixty-five pages, mostly in quarto, with double columns.
+
+<p>You are aware that the existence of Fables among the Hottentots was already known to us through Sir James Alexander&apos;s &ldquo;Expedition of Discovery into the Interior of Africa&rdquo; (8vo., two vols., London, 1838), and that some interesting specimens of their literature had been given by him in that work; but that Fables form so extensive a mass of traditionary Native literature amongst the Namaqua, has first been brought to light by Mr. Krönlein&apos;s communications. The fact of such a literary capacity existing among a nation whose mental qualifications it has been usual to estimate at the lowest standard, is of the greatest importance; and that their literary activity (in contradistinction to the general character <pb id=pb.xiii n=xiii facs="f:013">of Native literature among Negro nations) has been employed almost in the same direction as that which had been taken by our own earliest literature, is in itself of great significance.
+
+<p>Some questions of no trifling importance and interest are raised by the appearance of such an unlooked-for mine of literary lore, particularly as to the originality of these Fables. Whether they are indeed the real offspring of the desert, and can be considered as truly indigenous Native literature, or whether they have been either purloined from the superior white race, or at least brought into existence by the stimulus which contact with the latter gave to the Native mind (like that resulting in the invention of the Tshiroki and Vei alphabets) may be matters of dispute for some time to come, and it may require as much research as was expended upon the solving of the riddle of the originality of the Ossianic poems.
+
+<p>But whatever may be the ultimate result of such inquiries, whether it will confirm our idea of the originality and antiquity of the main portion of these Hottentot Fables, and consequently stamp them with the character of the oldest and most primitive literary remains of the old mother tongue of the Sexdenoting <pb id=pb.xiv n=xiv facs="f:014">nations, or whether they have only sprung up recently among the Hottentots from foreign seed&mdash;in either case the disposition of the Hottentots to the enjoyment of such Fables, and their easy growth on this arid soil, be it their native or adopted one&mdash;shows a much greater congeniality between the Hottentot and European mind than we find between the latter and any of the black races of Africa.
+
+<p>This similarity in the disposition of nations can in itself indeed hardly be considered as a valid proof of common ancestry; but if there be other grounds to make us believe that the nations in question, or at least their languages, are of common origin, it may render us more inclined to assume that such a similarity in their literary taste is derived also from the same source.
+
+<p>The great ethnological difference between the Hottentots and the black nations of South Africa has been a marked fact from almost the earliest acquaintance of Europeans with these parts, and occasional stray guesses (for example, in R. Moffat&apos;s &ldquo;Missionary Labours and Scenes in Southern Africa,&rdquo; 1842, p. 6), have already for some time pointed to a North African origin for the Hottentots.
+
+<p>It is, however, only within the last dozen years <pb id=pb.xv n=xv facs="f:015">that this has been established as a proved, and, I believe to most observers, an, at first, astonishing fact. I well remember still the feeling of most curious interest with which I regarded Knudsen&apos;s translation of Luke&apos;s Gospel (vol. i., No. 15 of your Library), when, in April 1850, it was sent me by the then Inspector of the Rhenish Mission House, the Rev J. C. Wallmann, for the purpose of ascertaining whether the language was in any way akin to those of the surrounding black nations, and whether, on that account, an already acquired acquaintance with any of the Hottentot dialects would render it easier for a Missionary to master one of the Negro or Kafir tongues.<note n=A><p>I give here some extracts from Mr. Wallmann&apos;s letter, dated Barmen, 13th April, 1850, which was the only help of a grammatical or lexical nature then available for me in my study of this Nama translation of Luke&apos;s Gospel:&mdash;
+
+<p>&ldquo;I transmit hereby Luke&apos;s Gospel in Namaqua, ... which I can lend you, however, only for four weeks, as I have already previously promised it to some one else.
+
+<p>&ldquo;Should your labours permit it, I wish to request you to make a little trial whether the Namaqua is somewhat related to the South African family of Languages. For the present a mere <hi>negative</hi> decision on this point is all that is wanted, and I should like to have very soon the opinion of some good philologist regarding it. Moffat <pb id=pb.xvi n=xvi facs="f:016">states that when he gave specimens of Namaqua to a Syrian who came from Egypt, he was told that he (the Syrian) had seen slaves in the market of Cairo who were of lighter colour than other Africans, and whose language resembled that of the Namaqua. Moffat also says that some ancient authors have mentioned a nation in the interior of Africa who were very similar to the Hottentots. Moffat seems himself, however, to ascribe little value to these accounts, for his guesses fall at once upon the Chinese. According to communications from our Missionary Knudsen, the Namaqua language seems well formed. He mentions as personal pronouns:&mdash;
+
+
+<INTRA langs="naq en">
+<p rend=center>[Tita|I] [saaz|thou (<hi lang=naq>s&amacr;ts</hi>)] [&chi;yb|he (<hi lang=naq>&lclick;&etilde;ip</hi>)] [sada|we] [sako|you] [&chi;yku|they (<hi lang=naq>&lclick;&ebreve;iku</hi>)]
+</INTRA>
+
+
+<p rend=noindent>but to show the modifications which the pronouns undergo according to the gender, and whether the person (spoken to) is included or excluded (in the first person plural), the following examples of inclusive or exclusive forms are given:&mdash;
+
+
+<p>&ldquo;We are captains.&rdquo;
+
+<table>
+    <row><cell>(incl.) <cell><hi lang=naq>Sake ke kauauke</hi> <cell rows=2>} <cell rows=2 rend=vam>mascul.
+    <row><cell>(excl.) <cell><hi lang=naq>Sike ke kauauke</hi>
+
+    <row><cell>(incl.) <cell><hi lang=naq>Sase ke kautase</hi> <cell rows=2>} <cell rows=2 rend=vam>fem.
+    <row><cell>(excl.) <cell><hi lang=naq>Sise ke kautase</hi>
+
+    <row><cell>(incl.) <cell><hi lang=naq>Sada ke tana-khoida</hi> <cell rows=2>} <cell rows=2 rend=vam>com.
+    <row><cell>(excl.) <cell><hi lang=naq>Sida ke tana-khoida</hi>
+
+    <row><cell>(incl.) <cell><hi lang=naq>Sakhom ke kauaukhoma</hi> <cell rows=2>} <cell rows=2 rend=vam>dual. mascul.
+    <row><cell>(excl.) <cell><hi lang=naq>Sikhom ke kauaukhoma</hi>
+
+    <pb id=pb.xvii n=xvii facs="f:017"><row><cell>(incl.) <cell><hi lang=naq>Saam he kautama</hi> <cell rows=2>} <cell rows=2 rend=vam>dual. fem.
+    <row><cell>(excl.) <cell><hi lang=naq>Siim ke kautama</hi>
+
+    <row><cell>(incl.) <cell><hi lang=naq>Saam ke tana-khoima</hi> <cell rows=2>} <cell rows=2 rend=vam>dual. com.
+    <row><cell>(excl.) <cell><hi lang=naq>Siim ke tana-khoima</hi>
+</table>
+
+<p>&ldquo;The second person of the plural is said to have not more than half as many distinctions; and the third person plural has only the following:&mdash;
+
+
+<list>
+    <item><hi lang=naq>&chi;yku ke kauauga</hi>&mdash;mascul.
+    <item><hi lang=naq>&chi;yte ke kautate</hi>&mdash;fem.
+    <item><hi lang=naq>&chi;yn ke tana-khoina</hi>&mdash;com.
+    <item><hi lang=naq>&chi;ykha ke kauaukha</hi>&mdash;dual. mascul.
+    <item><hi lang=naq>&chi;yra ke kautara</hi>&mdash;dual. fem.
+    <item><hi lang=naq>&chi;yra ke tana-khoira</hi>&mdash;dual. com.
+</list>
+
+
+<p>&ldquo;You will therefore oblige me by looking into the Namaqua Luke, and by having the kindness to write me your opinion regarding it.&rdquo;</note>
+
+<pb id=pb.xvi.b n=xvi facs="f:016"><p>I had, however, at that time not the least idea of the results to which a knowledge of this language <pb id=pb.xvii.b n=xvii facs="f:017">would lead me; and being then mostly occupied with the study of the Setshuâna and kindred languages&mdash;which seemed to me of paramount interest for comparative philology&mdash;I did not at first give undivided attention to the perusal of this curious volume. I remarked very soon, however, a striking similarity between the Hottentot signs of gender and those of the Coptic language; but for some time I considered it as purely accidental, which may be seen from a letter of mine regarding this subject, published by Mr. Wallmann, in &ldquo;<foreign lang=de>Berichten der Rheinischen Missions-Gesellschaft</foreign>&rdquo; <pb id=pb.xviii n=xviii facs="f:018">(Reports of the Rhenish Missionary Society, 1850, No. 24, if I am not mistaken in the number).
+
+<p>Soon, however, what were at first mere isolated facts, became links, in a chain of evidence, showing that all those Sexdenoting Languages which were then known to us in Africa, Asia, and Europe, are members of one large family, of which the primitive type has, in most respects, been best preserved to us in the Hottentot language.
+
+<p>It was even as early as the end of 1850 that I could write to Mr. Wallmann&mdash;&ldquo;This language (the Hottentot) is to me at this moment of greater interest than any other. The facts, of which once before I have given you some account, have now so increased upon me, and offer such strong analogies, that there is no further doubt in my own mind that not only the Coptic but also the Semitic, and all other languages of Africa (as Berber, the Galla dialect, &amp;c., &amp;c.) in which the distinction of the masculine and feminine gender pervades the whole grammar, are of common origin.&rdquo;
+
+<p>Part of the result of these researches was then published in my dissertation, &ldquo;<foreign lang=la>De Nominum Generibus Linguarum Africæ, Australis, Copticæ, Semiticarum <pb id=pb.xix n=xix facs="f:019">aliarumque Sexualium</foreign>&rdquo; (8vo., Bonn, 6th August, 1851, vol. i., No. 1 of your Library).
+
+<p>I was at that time not aware&mdash;nor has it come to my knowledge till within the last few weeks&mdash;that on the 10th June, 1851, Dr. <hi rend=sc>J. C. Adamson</hi>, in communicating to the Syro-Egyptian Society some observations on the analysis of languages, with a special reference to those of South Africa, had stated &ldquo;That the signs of gender were almost identical in the Namaqua and the Egyptian, and the feminine affix might be considered as being the same in all three&rdquo;<note n=A>Report of the Correspondence and Paper read at the General Meeting of the Syro-Egyptian Society, Session of 1851 and 1852. Read at the Anniversary Meeting, held April 20th, 1852, 8vo. pp. 6, 8.</note> (Namaqua, Galla, and Old Egyptian).
+
+<p>Another curious agreement on this point, by an apparently independent observer (Mr. <hi rend=sc>J. R. Logan</hi>),<note n=B>&ldquo;Ethnology of the Indo-Pacific Islands.&rdquo; By J. R. Logan, Esq., Hon. Fellow of the Ethnological Society. Language, Part ii. &ldquo;The Races and Languages of S.E. Asia, considered in relation to those of the Indo-Pacific Islands,&rdquo; Chapter v., sections i. to vi. [From the Journal of the Indian Archipelago and Eastern Asia, June and December, 1853, to December, 1854.] Singapore: Printed by Jakob Baptist, 8vo., pp. 229, 294, sec. 6. The Semitico-African <pb id=pb.xx n=xx facs="f:020">Languages, viz.:&mdash;1. General Characters, p. 229; 2. Egyptian, p. 248; 3. Hottentot, p. 248; 4. Shemo-Hamitic, or Assyro-Berber, p. 259.</note> <pb id=pb.xx.b n=xx facs="f:020">was pointed out to me by your Excellency. You also suggested this name of &ldquo;Sexdenoting Languages.&rdquo; But it is superfluous for me to say any thing of what you have done for the advancement of African, as well as Australian and Polynesian, philology.
+
+<p>It has been justly remarked by our learned friend, Mr. <hi rend=sc>Justice Watermeyer</hi>, that the natural propensities of animals in all parts of the world being so much alike, Fables intended to portray them must also be expected to resemble each other greatly, even to their very details.
+
+<p>But we may well ask why it is that, so far as we know, the Kafir imagination seems not at all inclined to the formation of this class of fictitious tales, though they have otherwise a prolific Native literature of a more or less historic and legendary character. This contrast to what we find among the Hottentots appears not to be accidental, but merely a natural consequence of that difference of structure which distinguishes these two classes of languages, embracing respectively the dialects of the Hottentots on the one <pb id=pb.xxi n=xxi facs="f:021">hand, and those of the Kafirs and their kindred nations on the other; in the former (the Hottentot), as in all other really Sexdenoting Languages, the grammatical divisions of the nouns into genders, which do not tally exactly with any distinction observed in nature, has been brought into a certain reference to the difference of sex; and on that account this distinction of sex seems in some way to extend even to inanimate beings, whereby a tendency to the personification of impersonal objects is produced, which in itself is likely to lead the mind towards ascribing reason and other human attributes to irrational beings. This is the real <corr sic=orgin>origin</corr> of almost all those poetical conceptions which we call <hi>Fables</hi> and <hi>Myths</hi>. Both are based on the personification of impersonal beings&mdash;the former by ascribing speech and reason to the lower animals, whilst the latter substitute human-like agencies in explanation of celestial and other elementary phenomena in place of their real cause.
+
+<p>Mythology is, in its origin, most generally either a mere figure of speech or a poetical explanation suggested by the grammatical form or etymological meaning of words, indicating certain striking natural phenomena. In the primary stage of their production, <pb id=pb.xxii n=xxii facs="f:022">Myths may be supposed to have been always understood in their true original character; and it is only when in the course of generations their real origin has been obscured, and they have become merely the petrified excrescences of a traditionary creed, that their apparent absurdity makes them at first sight almost inexplicable, particularly when found among nations of a high intelligence.
+
+<p>The humbler sisters of the Myths, the Fables based on the natural propensities of animals, are not obscured in their real character so easily as the former, and have, on that account, more generally retained their simple usefulness as moral teachers; so, though they may have preceded even Myths as to the date of their first conception, they yet outlive them as real and salutary elements of the best national literatures: not that Myths had not their own beneficial sphere in the education of mankind, as leading them on to higher abstract ideas, and even deeper religious thoughts, but their very power of exerting a much deeper influence on the destinies of our race, made it essential that they should have a more transitory existence in the civilizing process of the Sexdenoting nations&mdash;who have to give up mythologies so soon as through them they have gained higher religious ideas&mdash;while <pb id=pb.xxiii n=xxiii facs="f:023">Fables, which never claim so high a place among the elements of furthering the eliminating process of our species, remain always welcome to most classes of readers at certain periods of their intellectual development.
+
+<p>Children, and also simple-minded grown-up people, whose taste has not been spoiled by the poison of over-exciting reading, will always be amused by the quaintly expressed moral lessons which they receive through every good Fable; and the more thorough student of literature will also regard with pleasure these first innocent plays of awakening human imagination. To all these the Hottentot Fables offered here may not be unwelcome as a fresh store of original compositions, or even as old acquaintances who gain a new interest in different clothing and scenery.
+
+<p>To make these Hottentot Fables readable for the general public, a few slight omissions and alterations of what would otherwise have been too naked for the English eye were necessary, but they do not in any essential way affect the spirit of the Fables. Otherwise, the translation is faithful to the original, though not exactly literal.
+
+<p>It would of course be presumptuous to believe that <pb id=pb.xxiv n=xxiv facs="f:024">we could here discuss fully the originality or date of composition of these Fables, and all the many questions involved therein.
+
+<p>The modern origin of some of the Fables, as, for instance, that of The Cock (12), Fish-Stealing (8), The Judgment of the Baboon (17), and The Curse of the Horse (30), is very evident; others, <hi>e.g.</hi>, The White Man and the Snake (5 &amp; 6), indicate clearly a European origin. Others, however, have strong claims to be regarded not merely as genuine products of the Hottentot mind, but even as portions of a traditionary Native literature, anterior in its origin to the advent of Europeans.
+
+<p>That the latter is a true view of the subject becomes perhaps the more conclusive by the intimate relations in which, among the Hottentots, Myths still stand to Fables; in fact, a true mythology can hardly be said to exist among them; for Myths (as that of The Origin of Death) are in reality as much Fables as Myths; but we may consider these as analogous to the first germs whence sprung those splendid mythologies which have filled with deep devotional feelings the hearts of many millions among the most intelligent races of the earth.
+
+<pb id=pb.xxv n=xxv facs="f:025"><p>This higher flight of the imaginative faculty which the Sexdenoting nations possess (through the stimulus of this personification of impersonal things, consequent upon the grammatical structure of their languages), and what it had been to them, becomes the more evident if we compare their literature with that of the Kafirs and other black tribes of South Africa.
+
+<p>As the grammatical structure of languages spoken by the latter does not in itself suggest personification, these nations are almost, as a matter of course, destitute of Myths as well as Fables. Their literary efforts are, as a general rule, restricted to narrating the doings of men in a more or less historical manner&mdash;whence we have a number of household tales, and portions of a fabulous history of these tribes and nations; or their ancestor worship and belief in the supernatural give rise to horrible ghost stories and tales of witchcraft, which would be exciting if they were not generally told in such a long-winded, prosy manner, as must make the best story lose its interest.
+
+<p>Of course for the comparative philologist, and for any one who takes an interest in observing the working of the human mind in its most primitive stages, <pb id=pb.xxvi n=xxvi facs="f:026">these pieces of Kafir and Negro native literature will also have their own interest; it is therefore to be hoped that time and circumstances may soon allow us to publish also the other portions of South African native literature extant in manuscript in your library.
+
+<p>Among these we have principally to mention, as new contributions (received after your departure), twenty-three pieces in o Tyi-hereró, or the Damara language, as written down by natives themselves, copied by the Rev. <hi rend=sc>J. Rath</hi> (Rhenish Missionary, formerly in Damara Land, now at Sarepta Knils River), and accompanied with a German translation by him.<note n=A><p>Mr. Rath&apos;s Manuscript consists of sixty-one pages, with double columns, foolscap folio. It contains the following pieces:&mdash;
+
+<list>
+    <item><ab type=itemNum>1.</ab> The Spectre Sweethearts, pp. 1, 2.
+    <item><ab type=itemNum>2.</ab> The Lion Husbands, pp. 2, 5.
+    <item><ab type=itemNum>3.</ab> Tenacity of a Loving Mother&apos;s Care, pp. 5, 6.
+    <item><ab type=itemNum>4.</ab> The Girl who ran after her Father&apos;s Bird, pp. 6, 12.
+    <item><ab type=itemNum>5.</ab> The Handsome Girl, pp. 12, 15.
+    <item><ab type=itemNum>6.</ab> The Little Bushman Woman, pp. 17, 18.
+    <item><ab type=itemNum>7.</ab> Punishment of Imposition, pp. 19, 21.
+    <item><ab type=itemNum>8.</ab> The Spectre who Fell in Love with his Son&apos;s Wife, pp. 22, 23.
+    <item><ab type=itemNum>9.</ab> The Lunatic, p. 23.
+    <pb id=pb.xxvii n=xxvi facs="f:027"><item><ab type=itemNum>10.</ab> The Girls who Escaped from the Hill Damaras, pp. 24, 26.
+    <item><ab type=itemNum>11.</ab> The Elephant and the Tortoise, pp. 27, 29.
+    <item><ab type=itemNum>12.</ab> The Two Wives, pp<corr sic=",">.</corr> 29, 33.
+    <item><ab type=itemNum>13.</ab> The Lion who took different Shapes, pp. 34, 35.
+    <item><ab type=itemNum>14.</ab> The Little Girl left in the Well by her wicked Companions, pp. 35, 38.
+    <item><ab type=itemNum>15.</ab> The Unreasonable Child to whom the Dog gave its Deserts, pp. 39, 43
+    <item><ab type=itemNum>16.</ab> Rutanga, p. 44.
+    <item><ab type=itemNum>17.</ab> The Ghost of the Man who was Killed by a Rhinoceros in consequence of his Father&apos;s Curse, pp. 45, 47.
+    <item><ab type=itemNum>18.</ab> The Trials of Hambeka, a Spirit risen from the Dead, pp. 47, 50.
+    <item><ab type=itemNum>19.</ab> The Little Girl who was teased by an Insect, p. 51.
+    <item><ab type=itemNum>20.</ab> The same as 16 (Rutanga) p. 52.
+    <item><ab type=itemNum>21.</ab> Conjugal Love after Death, p. 53.
+    <item><ab type=itemNum>22.</ab> The Bad Katjungu and the Good Kahavundye, pp. 54, 57.
+    <item><ab type=itemNum>23.</ab> The Wife who went after her Husband, pp. 57, 59.
+    <item><ab type=itemNum>24.</ab> The Little Girl Murdered by the Hill Damara, pp. 59, 61.
+</list></note>
+
+<pb id=pb.xxvii.b n=xxvii facs="f:027"><p>Among these pieces there are seven ghost stories, four accounts of transformation of men or animals, eleven other household tales, one legend, and one fable. This last piece (No. 11, pp. 27, 29) is probably of Hottentot origin. I have therefore thought it best to give it a place in this little book (No. 14), where it precedes that Hottentot Fable, to which its concluding <pb id=pb.xxviii n=xxviii facs="f:028">portions bear such a striking resemblance. It is not unlikely that the beginning of this Hottentot Fable of The Giraffe and the Tortoise is missing. It may have been similar to the beginning of the corresponding one in Damara. As far as it goes the Hottentot Fable is however evidently more original than the o Tyi-hereró text. As a specimen of o Tyi-hereró household tales, I have given Rath&apos;s fifteenth piece, the story of The Unreasonable Child to whom the Dog gave its Deserts.
+
+<p>You will also approve of my having added the Zulu legend of the Origin of Death, which in its mixture of Fable and Myth, and even in several details of its composition, shows a great analogy to the Hottentot treatment of the same subject, of which I am able to give here four different versions.
+
+<p>A second version of two or three other fables, and of one legend, has also been given from one of the two important manuscripts in German, regarding the Hottentots and their language, prepared for you by Mr. Knudsen.<note n=A><p>The title of Mr. Knudsen&apos;s first Manuscript is, &ldquo;<foreign lang=de>Südafrica: Das Hottentot-Volk; Notizzen</foreign> (Manuscript) H. C. Knudsen.&rdquo; 4to., p. 12. Its contents are, Bushman Land, <pb id=pb.xxix n=xxix facs="f:029">p. 3; the different kinds of Rain, p. 3; Bethany (in Great Namaqualand), p. 3; the Damara, p. 4; the Grassy Plain, p. 4; the Diseases, pp. 4, 5; Birdsnests, p. 5; Marriage and Wedding among the Namaqua, p. 5; Extent of Authority among the Namaqua, p. 5; Similarity with the Jewish manner of Thinking, Counting, Eating, Drinking, Praying, Mode of Speech, and manner of Reckoning Relationship, p. 6; Heitsi Eibip or Kabip, p. 7; Origin of the Modes of Life of the Namaqua and Bushmen, pp. 7, 8; Coming of Age among the Hottentots, p. 8; Names of Hottentot Tribes and their probable Etymology, pp. 8, 9; Are the Hottentots of Egyptian or Ph&oelig;nician Origin? p. 9; Are the Hottentots of Jewish or Moabitic Origin? pp. 9, 10; Appendix, pp. 11, 12.
+
+<p>Mr. Knudsen&apos;s second Manuscript has the following title, &ldquo;<foreign lang=de>Stoff zu einer Grammatik in der Namaquasprache</foreign> (Manuscript), H. C. Knudsen.&rdquo; 4to. pp. 29. After a few general introductory remarks, and a short explanation of the Hottentot Alphabet, Mr. Knudsen treats of the different Parts of Speech:&mdash;I. Nouns, pp. 3, 4; II. Adjectives, pp. 4, 5; III. Pronouns, pp. 5, 10; IV. Numerals, p. 11; V. Verbs, pp. 12, 24; Interrogative Sentences, pp. 25, 26; Concluding Remarks, pp. 26, 29. </note> The same manuscript <pb id=pb.xxix.b n=xxix facs="f:029">supplied also a legend of The Origin of Difference in Modes of Life between Hottentots and Bushmen, which we do not yet possess in the Hottentot language.
+
+<p>To make our available stock of Nama Hottentot literature quite complete, three fables and four tales <pb id=pb.xxx n=xxx facs="f:030">have been taken from Sir James Alexander&apos;s &ldquo;Expedition,&rdquo; &amp;c., and inserted here, with only few insignificant verbal alterations.
+
+<p>The &ldquo;Songs of Praise,&rdquo; given as notes to some of the Fables in this volume, are merely intended as specimens of Hottentot poetry. They can hardly be expected to amuse or interest the general reader&mdash;at least, not in the form in which they appear here, though a Longfellow might be able to render some of them in a way that would make them attractive.
+
+<p>In the same manner the materials contained in these Hottentot Fables might be worked out similarly to Goethe&apos;s &ldquo;<foreign lang=de>Reinecke Fuchs</foreign>;&rdquo; and we should hereby probably gain an epical composition, which, though not ranking so high as the latter poem, would yet, as regards the interest of its subject-matter, far exceed Longfellow&apos;s &ldquo;Hiawatha&rdquo; in adaptation to the general taste.
+
+<p>How much Native productions gain when represented skilfully and properly, your admirable work on &ldquo;Polynesian Mythology&rdquo; has shown. But you had sterner and more important work on hand, and so I have had to do this without you. That it does not appear in a still more imperfect form, I owe <pb id=pb.xxxi n=xxxi facs="f:031">mainly to the help of one who naturally takes the greatest interest in all my pursuits.
+
+<p>In writing the last lines of this Preface, the interest which I feel for these Hottentot Fables is almost fading away before those rich treasures of your library which have just arrived from England; and as all our present efforts are of course given to the proper settling of these jewels of our library, I can merely send, with grateful acknowledgments, our most fervent wishes for your well-doing, and our sincere hope of seeing you, at no distant day, again in the midst of us.
+
+
+<p rend=signed>Believe me,
+    <lb>My dear Sir George,
+        <lb rend="indent(2em)">Yours most faithfully,
+            <lb rend="indent(4em)">W. H. I. BLEEK.
+
+<p rend=dateline><hi rend=sc>Capetown</hi>, <hi>April, 1863</hi>.
+
+
+
+
+
+<pb id=pb1 n=1 facs="f:033">
+</front>
+<body>
+<div1 type=Chapter id=ch1>
+<head type=label>I.</head>
+
+<head>JACKAL FABLES.</head>
+
+
+<div2 id=ch1.1 n=1 type=Story>
+<head>1. THE LION&apos;S DEFEAT.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 19, 20.)
+
+
+
+<p>The wild animals, it is said, were once assembled at the Lion&apos;s. When the Lion was asleep, the Jackal persuaded the little Fox<note n=A>The little Fox, in Nama the <hi lang=naq>&rclick;Kamap</hi>, a small kind of Jackal, who is a swift runner. The Jackal&apos;s name is <hi lang=naq>&dclick;Girip</hi>. (The <hi>&dclick;</hi> is the dental and the <hi>&rclick;</hi> the cerebral click; <hi>vide</hi> Notes to Fables 23 and 27, pp. 47, 62.)</note> to twist a rope of ostrich sinews, in order to play the Lion a trick. They took ostrich sinews, twisted them, and fastened the rope to the Lion&apos;s tail, and the other end of the rope they tied to a shrub. When the Lion awoke, and saw that he was tied up, he became angry, and called the animals together. When they had assembled, he said (using this form of conjuration)&mdash;
+
+<pb id=pb2 n=2 facs="f:034"><lg type=Group>
+    <l>&ldquo;What child of his mother and father&apos;s love,
+    <l>Whose mother and father&apos;s love has tied me?&rdquo;
+</lg>
+
+<p>Then answered the animal to whom the question was first put&mdash;
+
+<lg type=Group>
+    <l>&ldquo;I, child of my mother and father&apos;s love,
+    <l>I, mother and father&apos;s love, I have not done it.&rdquo;
+</lg>
+
+<p>All answered the same; but when he asked the little Fox, the little Fox said&mdash;
+
+<lg type=Group>
+    <l>&ldquo;I, child of my mother and father&apos;s love,
+    <l>I, mother and father&apos;s love, have tied thee!&rdquo;
+</lg>
+
+<p>Then the Lion tore the rope made of sinews, and ran after the little Fox. But the Jackal said&mdash;
+
+<p>&ldquo;My boy, thou son of the lean Mrs. Fox, thou wilt never be caught.&rdquo;
+
+<p>Truly the Lion was thus beaten in running by the little Fox.
+
+
+
+
+
+<pb id=pb3 n=3 facs="f:035">
+<div2 id=ch1.2>
+<head>2. THE HUNT OF THE LION AND JACKAL.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 18, 19.)
+
+
+
+<p>The Lion and the Jackal, it is said, were one day lying in wait for elands. The Lion shot (with the bow) and missed, but the Jackal hit and sang out, &ldquo;Hah! Hah!&rdquo; The Lion said, &ldquo;No, you did not shoot anything. It was I who hit.&rdquo; The Jackal answered, &ldquo;Yea, my father, thou hast hit.&rdquo; Then they went home in order to return when the eland was dead, and cut it up. The Jackal, however, turned back, unknown to the Lion, hit his nose so that the blood ran on the spoor of the elands, and followed their track thus, in order to cheat the Lion. When he had gone some distance, he returned by another way to the dead eland, and creeping into its carcase, cut out all the fat.
+
+<p>Meanwhile the Lion followed the bloodstained spoor of the Jackal, thinking that it was elands&apos; blood, and only when he had gone some distance did he find out that he had been deceived. He then returned on the <pb id=pb4 n=4 facs="f:036">Jackal&apos;s spoor, and reached the dead eland, where, finding the Jackal in its carcase, he seized him by his tail and drew him out with a swing.
+
+<p>The Lion upbraided the Jackal with these words: &ldquo;Why do you cheat me?&rdquo; The Jackal answered: &ldquo;No, my father, I do not cheat you; you may know it, I think. I prepared this fat for you, father.&rdquo; The Lion said: &ldquo;Then take the fat and bring it to your mother&rdquo; (the Lioness); and he gave him the lungs to take to his own wife and children.
+
+<p>When the Jackal arrived, he did not give the fat to the Lion&apos;s wife, but to his own wife and children; he gave, however, the lungs to the Lion&apos;s wife, and he pelted the Lion&apos;s little children with the lungs, saying:
+
+<lg>
+    <l>&ldquo;You children of the big-pawed one!
+    <l>You big-pawed ones!&rdquo;
+</lg>
+
+<p>He said to the Lioness, &ldquo;I go to help my father&rdquo; (the Lion); but he went quite away with his wife and children.
+
+
+
+
+<pb id=pb5 n=5 facs="f:037">
+<div2 id=ch1.3>
+<head>3. THE LION&apos;S SHARE.</head>
+
+
+    <p rend=small>(From a German original Manuscript in Sir G. Grey&apos;s Library, viz., H. C. Knudsen&apos;s &ldquo;Notes on the Hottentots,&rdquo; pp. 11, 12.)
+
+
+
+<p>The Lion and the Jackal went together a-hunting. They shot with arrows. The Lion shot first, but his arrow fell short of its aim; but the Jackal hit the game, and joyfully cried out, &ldquo;It has hit.&rdquo; The Lion looked at him with his two large eyes; the Jackal, however, did not lose his countenance, but said, &ldquo;No, Uncle, I mean to say that you have hit.&rdquo; Then they followed the game, and the Jackal passed the arrow of the Lion without drawing the latter&apos;s attention to it. When they arrived at a cross-way, the Jackal said, &ldquo;Dear Uncle, you are old and tired; stay here.&rdquo; The Jackal went then on a wrong track, beat his nose, and, in returning, let the blood drop from it like traces of game. &ldquo;I could not find anything,&rdquo; he said, &ldquo;but I met with traces of blood. You had better go yourself to look for it. In the meantime I shall go this other way.&rdquo; The Jackal soon found the killed animal, crept inside of it, and devoured the best portion; <pb id=pb6 n=6 facs="f:038">but his tail remained outside, and when the Lion arrived, he got hold of it, pulled the Jackal out, and threw him on the ground with these words: &ldquo;You rascal!&rdquo; The Jackal rose quickly again, complained of the rough handling, and asked, &ldquo;What have I then now done, dear Uncle? I was busy cutting out the best part.&rdquo; &ldquo;Now let us go and fetch our wives,&rdquo; said the Lion; but the Jackal entreated his dear Uncle to remain at the place because he was old. The Jackal went then away, taking with him two portions of the flesh, one for his own wife, but the best part for the wife of the Lion. When the Jackal arrived with the flesh, the children of the Lion saw him, began to jump, and clapping their hands, cried out, &ldquo;There comes Uncle with flesh!&rdquo; The Jackal threw, grumbling, the worst portion to them, and said, &ldquo;There, you brood of the big-eyed one!&rdquo; Then he went to his own house and told his wife immediately to break up the house, and to go where the killed game was. The Lioness wished to do the same, but he forbade her, and said that the Lion would himself come to fetch her.
+
+<p>When the Jackal, with his wife and children, had arrived in the neighbourhood of the killed animal, he ran into a thorn bush, scratched his face so that it bled, and thus made his appearance before the Lion, <pb id=pb7 n=7 facs="f:039">to whom he said, &ldquo;Ah! what a wife you have got. Look here, how she scratched my face when I told her that she should come with us. You must fetch her yourself; I cannot bring her.&rdquo; The Lion went home very angry. Then the Jackal said, &ldquo;Quick, let us build a tower.&rdquo; They heaped stone upon stone, stone upon stone, stone upon stone; and when it was high enough, everything was carried to the top of it. When the Jackal saw the Lion approaching with his wife and children, he cried out to him, &ldquo;Uncle, whilst you were away we have built a tower, in order to be better able to see game.&rdquo; &ldquo;All right,&rdquo; said the Lion; &ldquo;but let me come up to you.&rdquo; &ldquo;Certainly, dear Uncle; but how will you manage to come up? We must let down a thong for you.&rdquo; The Lion ties himself to the thong, and is drawn up; but when he is nearly at the top the thong is cut by the Jackal, who exclaims, as if frightened, &ldquo;Oh, how heavy you are, Uncle! Go, wife, fetch me a new thong.&rdquo; (&ldquo;An old one,&rdquo; he said aside to her.) The Lion is again drawn up, but comes of course down in the same manner. &ldquo;No,&rdquo; said the Jackal, &ldquo;that will never do; you must, however, manage to come up high enough, so that you may get a mouthful at least.<corr>&rdquo;</corr> Then aloud he orders his wife to prepare a good piece, but aside he tells her to make a <pb id=pb8 n=8 facs="f:040">stone hot, and to cover it with fat. Then he drew up the Lion once more, and, complaining that he is very heavy to hold, he tells him to open his mouth, whereupon he throws the hot stone down his throat. When the Lion has devoured it, he entreats and requests him to run as quickly as possible to the water.
+
+
+
+
+<pb id=pb9 n=9 facs="f:041">
+<div2 id=ch1.4 n=4>
+<head>4. THE JACKAL&apos;S BRIDE.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 7, 8.)
+
+
+
+<p>The Jackal, it is said, married the Hyena, and carried off a cow belonging to ants, to slaughter her for the wedding; and when he had slaughtered her, he put the cow-skin over his bride; and when he had fixed a pole (on which to hang the flesh), he placed on the top of the pole (which was forked) the hearth for cooking, in order to cook upon it all sorts of delicious food. There came also the Lion to the spot, and wished to go up. The Jackal, therefore, asked his little daughter for a thong with which he could pull the Lion up, and he began to pull him up; and when his face came near to the cooking-pot, he cut the thong in two, so that the Lion tumbled down. Then the Jackal upbraided his little daughter with these words: &ldquo;Why do you give me such an old thong?&rdquo; And he added, &ldquo;Give me a fresh thong.&rdquo; She gave him a new thong, and he pulled the Lion up again, and when his face came near the pot, which stood on <pb id=pb10 n=10 facs="f:042">the fire, he said, &ldquo;Open your mouth.&rdquo; Then he put into his mouth a hot piece of quartz which had been boiled together with the fat, and the stone went down, burning his throat. Thus died the Lion.
+
+<p>There came also the ants running after the cow, and when the Jackal saw them he fled. Then they beat the bride in her brookaross dress. The Hyena, believing that it was the Jackal, said&mdash;
+
+<lg>
+    <l>&ldquo;You tawny rogue! have you not played at beating long enough?
+    <l>Have you no more loving game than this?&rdquo;
+</lg>
+
+<p>But when she had bitten a hole through the cow-skin, she saw that they were other people; then she fled, falling here and there, yet she made her escape.
+
+
+
+
+
+<pb id=pb11 n=11 facs="f:043">
+<div2 id=ch1.5 n=5>
+<head>5. THE WHITE MAN AND THE SNAKE.</head>
+
+
+<p>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 5, 6.)
+
+
+<p>A White Man, it is said, met a Snake upon whom a large stone had fallen and covered her, so that she could not rise. The White Man lifted the stone off the Snake, but when he had done so, she wanted to bite him. The White Man said, &ldquo;Stop! let us both go first to some wise people.&rdquo; They went to the Hyena, and the White Man asked him, &ldquo;Is it right that the Snake should want to bite me, though I helped her, when she lay under a stone and could not rise?&rdquo;
+
+<p>The Hyena (who thought he would get his share of the White Man&apos;s body) said: &ldquo;If you were bitten what would it matter?&rdquo;
+
+<p>Then the Snake wanted to bite him, but the White Man said again: &ldquo;Wait a little, and let us go to other wise people, that I may hear whether this is right.&rdquo;
+
+<p>They went and met the Jackal. The White Man said to the Jackal: &ldquo;Is it right that the Snake wants <pb id=pb12 n=12 facs="f:044">to bite me, though I lifted up the stone which lay upon her?&rdquo;
+
+<p>The Jackal replied: &ldquo;I do not believe that the Snake could be covered by a stone and could not rise. Unless I saw it with my two eyes, I would not believe it. Therefore, come let us go and see at the place where you say it happened whether it can be true.&rdquo;
+
+<p>They went, and arrived at the place where it had happened. The Jackal said: &ldquo;Snake, lie down, and let thyself be covered.&rdquo;
+
+<p>The Snake did so, and the White Man covered her with the stone; but although she exerted herself very much, she could not rise. Then the White Man wanted again to release the Snake, but the Jackal interfered, and said: &ldquo;Do not lift the stone. She wanted to bite you; therefore she may rise by herself.&rdquo;
+
+<p>Then they both went away and left the Snake under the stone.
+
+
+
+
+
+<pb id=pb13 n=13 facs="f:045">
+<div2 id=ch1.6 n=6>
+<head>6. ANOTHER VERSION OF THE SAME FABLE.</head>
+
+
+    <p rend=small>(From a German original Manuscript in Sir G. Grey&apos;s Library, H. C. Knudsen&apos;s &ldquo;Notes on the Hottentots,&rdquo; p. 11.)
+
+
+<p>A Dutchman was walking by himself, and saw a Snake lying under a large stone. The Snake implored his help; but when she had become free, she said, &ldquo;Now I shall eat you.&rdquo;
+
+<p>The Man answered, &ldquo;That is not right. Let us first go to the Hare.&rdquo;
+
+<p>When the Hare had heard the affair, he said, &ldquo;It is right.&rdquo; &ldquo;No,&rdquo; said the Man, &ldquo;let us ask the Hyena.&rdquo;
+
+<p>The Hyena declared the same, saying, &ldquo;It is right.&rdquo;
+
+<p>&ldquo;Now let us at last ask the Jackal,&rdquo; said the Man in his despair.
+
+<p>The Jackal answered very slowly and considerately, doubting the whole affair, and demanding to see first the place, and whether the Man was able to lift the stone. The Snake lay down, and the Man, to prove the truth of his account, put the stone again over her.
+
+<p>When she was fast, the Jackal said, &ldquo;Now let her lie there.&rdquo;
+
+
+
+
+<pb id=pb14 n=14 facs="f:046">
+<div2 id=ch1.7 n=7>
+<head>7. CLOUD-EATING.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 30, 31.)
+
+
+<lg>
+    <head>THE HYENA.</head>
+
+    <l>Thou who makest thy escape from the tumult!
+    <l>Thou wide, roomy tree!
+    <l>Thou who gettest thy share (though with trouble!)
+    <l>Thou cow who art strained at the hocks!<note n=A>&ldquo;When the Hyena first starts, it appears to be lame on the hind legs, or gone in the loins, as one would say of a horse.&rdquo;&mdash;<hi rend=sc>L. Layard.</hi></note>
+    <l>Thou who hast a plump round knee!
+    <l>Thou the nape of whose neck is clothed with hair!
+    <l>Thou with the skin dripping as if half-tanned!
+    <l>Thou who hast a round, distended neck!
+    <l>Thou eater of the Namaqua,
+    <l>Thou big-toothed one!
+</lg>
+
+<milestone unit=tb>
+
+<p>The Jackal and the Hyena were together, it is said, when a white cloud rose. The Jackal ascended upon it, and ate of the cloud as if it were fat.
+
+<p>When he wanted to come down, he said to the Hyena, &ldquo;My sister, as I am going to divide with <pb id=pb15 n=15 facs="f:047">thee, catch me well.&rdquo; So she caught him, and broke his fall. Then she also went up and ate there, high up on the top of the cloud.
+
+<p>When she was satisfied, she said, &ldquo;My greyish brother, now catch me well.&rdquo; The greyish rogue said to his friend, &ldquo;My sister, I shall catch thee well. Come therefore down.&rdquo;
+
+<p>He held up his hands, and she came down from the cloud, and when she was near, the Jackal cried out (painfully jumping to one side), &ldquo;My sister, do not take it ill. Oh me! oh me! A thorn has pricked me, and sticks in me.&rdquo; Thus she fell down from above, and was sadly hurt.
+
+<p>Since that day, it is said, that the Hyena&apos;s left hind foot is shorter and smaller than the right one.
+
+
+
+
+
+<pb id=pb16 n=16 facs="f:048">
+<div2 id=ch1.8 n=8>
+<head>8. FISH-STEALING.</head>
+
+
+    <p rend=small>(From Sir James E. Alexander&apos;s &ldquo;Expedition of Discovery into the Interior of Africa,&rdquo; vol. ii. pp. 246, 247.)
+
+
+
+<p rend=center>THE HYENA.
+
+<p rend=center>(Addressing her young ones, on her return from a marauding expedition, with regard to the perils she had encountered).
+
+<lg>
+    <l>The fire threatens,
+    <l>The stone threatens,
+    <l>The assegais threaten,
+    <l>The guns threaten,
+    <l>Yet you seek food from me.
+    <l>My children,
+    <l>Do I get anything easily?
+</lg>
+
+<milestone unit=tb>
+
+<p>Once upon a time a Jackal, who lived on the borders of the colony, saw a waggon returning from the seaside laden with fish. He tried to get into the waggon from behind, but he could not; he then ran on before, and lay in the road as if dead. The waggon came up to him, and the leader cried to the driver, &ldquo;Here is a fine kaross for your wife!&rdquo;
+
+<pb id=pb17 n=17 facs="f:049"><p>&ldquo;Throw it into the waggon,&rdquo; said the driver, and the Jackal was thrown in.
+
+<p>The waggon travelled on through a moonlight night, and all the while the Jackal was throwing the fish out into the road; he then jumped out himself, and secured a great prize. But a stupid old Hyena coming by, ate more than her share, for which the Jackal owed her a grudge; so he said to her, &ldquo;You can get plenty of fish, too, if you lie in the way of a waggon as I did, and keep quite still whatever happens.&rdquo;
+
+<p>&ldquo;So!&rdquo; mumbled the Hyena.
+
+<p>Accordingly, when the next waggon came from the sea, the Hyena stretched herself out in the road.
+
+<p>&ldquo;What ugly thing is this?&rdquo; cried the leader, and kicked the Hyena. He then took a stick and thrashed her within an inch of her life. The Hyena, according to the directions of the Jackal, lay quiet as long as she could; she then got up and hobbled off to tell her misfortune to the Jackal, who pretended to comfort her.
+
+<p>&ldquo;What a pity,&rdquo; said the Hyena, &ldquo;that I have not such a handsome skin as you!&rdquo;
+
+
+
+
+
+<pb id=pb18 n=18 facs="f:050">
+<div2 id=ch1.9 n=9>
+<head>9. WHICH WAS THE THIEF?</head>
+
+
+    <p rend=small>(From Sir James E. Alexander&apos;s &ldquo;Expedition of Discovery into the Interior of Africa,&rdquo; vol. ii. p. 250.)
+
+
+
+<p>A Jackal and a Hyena went and hired themselves to a man to be his servants. In the middle of the night the Jackal rose and smeared the Hyena&apos;s tail with some fat, and then ate all the rest of it which was in the house. In the morning the man missed his fat, and he immediately accused the Jackal of having eaten it.
+
+<p>&ldquo;Look at the Hyena&apos;s tail,&rdquo; said the rogue, &ldquo;and you will see who is the thief.&rdquo; The man did so, and then thrashed the Hyena till she was nearly dead.
+
+
+
+
+
+<pb id=pb19 n=19 facs="f:051">
+<div2 id=ch1.10 n=10>
+<head>10. THE LION&apos;S ILLNESS.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 29, 30.)
+
+
+
+<p>The Lion, it is said, was ill, and they all went to see him in his suffering. But the Jackal did not go, because the traces of the people who went to see him did not turn back. Thereupon, he was accused by the Hyena, who said, &ldquo;Though <hi>I</hi> go to look, yet the Jackal does not want to come and look at the man&apos;s sufferings.&rdquo;
+
+<p>Then the Lion let the Hyena go, in order that she might catch the Jackal; and she did so, and brought him.
+
+<p>The Lion asked the Jackal: &ldquo;Why did you not come here to see me?&rdquo; The Jackal said, &ldquo;Oh no! when I heard that my uncle was so very ill, I went to the witch (doctor), to consult him, whether and what medicine would be good for my uncle against the pain. The doctor said to me, &lsquo;Go and tell your uncle to take hold of the Hyena and draw off her skin, and put it on while it is still warm. Then he <pb id=pb20 n=20 facs="f:052">will recover.&rsquo; The Hyena is one who does not care for my uncle&apos;s sufferings.&rdquo;
+
+<p>The Lion followed his advice, got hold of the Hyena, drew the skin over her ears, whilst she howled with all her might, and put it on.
+
+
+
+
+
+
+<pb id=pb21 n=21 facs="f:053">
+<div2 id=ch1.11 n=11>
+<head>11. THE DOVE AND THE HERON.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 13, 14.)
+
+
+
+<p>The Jackal, it is said, came once to the Dove, who lived on the top of a rock, and said, &ldquo;Give me one of your little children.&rdquo; The Dove answered: &ldquo;I shall not do anything of the kind.&rdquo; The Jackal said, &ldquo;Give it me at once! Otherwise, I shall fly up to you.&rdquo; Then she threw one down to him.
+
+<p>He came back another day, and demanded another little child, and she gave it to him. After the Jackal had gone, the Heron came, and asked, &ldquo;Dove, why do you cry?&rdquo; The dove answered him: &ldquo;The Jackal has taken away my little children; it is for this that I cry.&rdquo; He asked her, &ldquo;In what manner can he take them?&rdquo; She answered him: &ldquo;When he asked me I refused him; but when he said, &lsquo;I shall at once fly up, therefore give it me,&rsquo; I threw it down to him.&rdquo; The Heron said, &ldquo;Are you such a fool as to give your children to the Jackals, who cannot fly?&rdquo; Then, with the admonition to give no more, he went away.
+
+<pb id=pb22 n=22 facs="f:054"><p>The Jackal came again, and said, &ldquo;Dove, give me a little child.&rdquo; The Dove refused, and told him that the Heron had told her that he could not fly up. The Jackal said, &ldquo;I shall catch him.&rdquo;
+
+<p>So when the Heron came to the banks of the water, the Jackal asked him: &ldquo;Brother Heron, when the wind comes from this side, how will you stand?&rdquo; He turned his neck towards him and said, &ldquo;I stand thus, bending my neck on one side.&rdquo; The Jackal asked him again, &ldquo;When a storm comes and when it rains, how do you stand?&rdquo; He said to him: &ldquo;I stand thus, indeed, bending my neck down.&rdquo;
+
+<p>Then the Jackal beat him on his neck, and broke his neck in the middle.
+
+<p>Since that day the Heron&apos;s neck is bent.
+
+
+
+
+
+<pb id=pb23 n=23 facs="f:055">
+<div2 id=ch1.12 n=12>
+<head>12. THE COCK.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, p. 29.)
+
+
+
+<p>The Cock, it is said, was once overtaken by the Jackal and caught. The Cock said to the Jackal, &ldquo;Please, pray first (before you kill me) as the white man does.&rdquo; The Jackal asked, &ldquo;In what manner does he pray? Tell me.&rdquo; &ldquo;He folds his hands in praying,&rdquo; said the Cock. The Jackal folded his hands and prayed. Then the Cock spoke again: &ldquo;You ought not to look about you as you do. You had better shut your eyes.&rdquo; He did so; and the Cock flew away, upbraiding at the same time the Jackal with these words: &ldquo;You rogue! do you also pray?&rdquo;
+
+<p>There sat the Jackal, speechless, because he had been outdone.
+
+
+
+
+
+<pb id=pb24 n=24 facs="f:056">
+<div2 id=ch1.13 n=13>
+<head>13. THE LEOPARD AND THE RAM.</head>
+
+
+    <p rend=small>(From Sir James E. Alexander&apos;s &ldquo;Expedition of Discovery into the Interior of Africa,&rdquo; vol. ii. pp. 247, 250.)
+
+
+
+<p>A Leopard was returning home from hunting on one occasion, when he lighted on the kraal of a Ram. Now the Leopard had never seen a Ram before, and accordingly, approaching submissively, he said, &ldquo;Good day, friend! what may your name be?&rdquo;
+
+<p>The other, in his gruff voice, and striking his breast with his forefoot, said, &ldquo;I am a Ram. Who are you?&rdquo;
+
+<p>&ldquo;A Leopard,&rdquo; answered the other, more dead than alive; and then, taking leave of the Ram, he ran home as fast as he could.
+
+<p>A Jackal lived at the same place as the Leopard did, and the latter going to him, said, &ldquo;Friend Jackal, I am quite out of breath, and am half dead with fright, for I have just seen a terrible-looking fellow, with a large and thick head, and, on my asking him what his name was, he answered roughly, &ldquo;I am a Ram!&rdquo;
+
+<p>&ldquo;What a foolish Leopard you are!&rdquo; cried the <pb id=pb25 n=25 facs="f:057">Jackal, to let such a nice piece of flesh stand! &ldquo;Why did you do so? But we shall go to-morrow and eat it together!&rdquo;
+
+<p>Next day the two set off for the kraal of the Ram, and as they appeared over a hill, the Ram, who had turned out to look about him, and was calculating where he should that day crop a tender salad, saw them, and he immediately went to his wife, and said, &ldquo;I fear this is our last day, for the Jackal and Leopard are both coming against us. What shall we do?&rdquo;
+
+<p>&ldquo;Don&apos;t be afraid,&rdquo; said the wife, &ldquo;but take up the child in your arms; go out with it, and pinch it to make it cry as if it were hungry.&rdquo; The Ram did so as the confederates came on.
+
+<p>No sooner did the Leopard cast his eyes on the Ram, than fear again took possession of him, and he wished to turn back. The Jackal had provided against this, and made the Leopard fast to himself with a leathern thong, and said, &ldquo;Come on!&rdquo; when the Ram cried in a loud voice, and pinching his child at the same time, &ldquo;You have done well, friend Jackal, to have brought us the Leopard to eat, for you hear how my child is crying for food!&rdquo;
+
+<p>On hearing these dreadful words, the Leopard, notwithstanding the entreaties of the Jackal to let him loose, set off in the greatest alarm, dragging the <pb id=pb26 n=26 facs="f:058">Jackal after him over hill and valley, through bushes and over rocks, and never stopped to look behind him till he brought back himself and the half-dead Jackal to his place again. And so the Ram escaped.
+
+
+
+
+
+<pb id=pb27 n=27 facs="f:059">
+<div1 id=ch2 n=II>
+<head type=label>II.</head>
+
+<head>TORTOISE FABLES.</head>
+
+
+<lg>
+    <head>THE SPRINGBOK (GAZELLE).</head>
+
+    <l>Woe is me! He is one who goes
+    <l>Where his mother would not let him!
+    <l>Who rolls off (the rocks),
+    <l>Rolling himself together like a book.
+</lg>
+
+
+
+<div2 id=ch2.14 n=14>
+<head>14. THE ELEPHANT AND THE TORTOISE.</head>
+
+
+    <p rend=small>(The original, in the o Tyi-hereró or Damara language, is in the Library of Sir G. Grey, J. Rath&apos;s Manuscript, pp. 27, 29.)
+
+
+
+<p>Two things, the Elephant and the Rain, had a dispute. The Elephant said, &ldquo;If you say that you nourish me, in what way is it that you do so?&rdquo; The Rain answered, &ldquo;If you say that I do not nourish you, when I go away, will you not die?&rdquo; And the Rain then departed.
+
+<p>The Elephant said, &ldquo;Vulture! cast lots to make <pb id=pb28 n=28 facs="f:060">rain for me?&rdquo; The Vulture said, &ldquo;I will not cast lots.&rdquo;
+
+<p>Then the Elephant said to the Crow, &ldquo;Cast lots!&rdquo; who answered, &ldquo;Give the things with which I may cast lots.&rdquo; The Crow cast lots and rain fell. It rained at the lagoons, but they dried up, and only one lagoon remained.
+
+<p>The Elephant went a-hunting. There was, however, the Tortoise, to whom the Elephant said, &ldquo;Tortoise, remain at the water!&rdquo; Thus the Tortoise was left behind when the Elephant went a-hunting.
+
+<p>There came the Giraffe, and said to the Tortoise, &ldquo;Give me water!&rdquo; The Tortoise answered, &ldquo;The water belongs to the Elephant.&rdquo;
+
+<p>There came the Zebra, who said to the Tortoise, &ldquo;Give me water!&rdquo; The Tortoise answered, &ldquo;The water belongs to the Elephant.&rdquo;
+
+<p>There came the Gemsbok, and said to the Tortoise, &ldquo;Give me water!&rdquo; The Tortoise answered, &ldquo;The water belongs to the Elephant.&rdquo;
+
+<p>There came the Wildebeest, and said, &ldquo;Give me water!&rdquo; The Tortoise said, &ldquo;The water belongs to the Elephant.&rdquo;
+
+<p>There came the Roodebok, and said to the Tortoise, &ldquo;Give me water!&rdquo; The Tortoise answered, &ldquo;The water belongs to the Elephant.&rdquo;
+
+<pb id=pb29 n=29 facs="f:061"><p>There came the Springbok, and said to the Tortoise, &ldquo;Give me water!&rdquo; The Tortoise said, &ldquo;The water belongs to the Elephant.&rdquo;
+
+<p>There came the Jackal, and said to the Tortoise, &ldquo;Give me water!&rdquo; The Tortoise said, &ldquo;The water belongs to the Elephant.&rdquo;
+
+<p>There came the Lion, and said, &ldquo;Little Tortoise, give me water!&rdquo; When the little Tortoise was about to say something, the Lion got hold of it and beat it; the Lion drank of the water, and since then the animals drink water.
+
+<p>When the Elephant came back from the hunting, he said, &ldquo;Little Tortoise, is there water?&rdquo; The Tortoise answered, &ldquo;The animals have drunk the water.&rdquo; The Elephant asked, &ldquo;Little Tortoise, shall I chew you or swallow you down?&rdquo; The little Tortoise said, &ldquo;Swallow me, if you please;&rdquo; and the Elephant swallowed it whole.
+
+<p>After the Elephant had swallowed the little Tortoise, and it had entered his body, it tore off his liver, heart, and kidneys. The Elephant said, &ldquo;Little Tortoise, you kill me.&rdquo;
+
+<p>So the Elephant died; but the little Tortoise came out of his dead body, and went wherever it liked.
+
+
+
+
+
+
+<pb id=pb30 n=30 facs="f:062">
+<div2 id=ch2.15 n=15>
+<head>15. THE GIRAFFE AND THE TORTOISE.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, p. 5.)
+
+<lg>
+    <head>THE GIRAFFE.</head>
+
+    <l>Thou who descendest river by river,
+    <l>Thou burnt thornbush (<hi lang=naq>&aclick;aro</hi>)!
+    <l>Thou blue one,<note n=A>&ldquo;Because the Giraffe is said to give blue ashes when burnt.&rdquo;&mdash;<hi rend=sc>Krönlein.</hi></note>
+    <l>Who appearest like a distant thornhill full of people sitting down.
+</lg>
+
+<milestone unit=tb>
+
+<p>The Giraffe and the Tortoise, they say, met one day. The Giraffe said to the Tortoise, &ldquo;At once I could trample you to death.&rdquo; The Tortoise, being afraid, remained silent. Then the Giraffe said, &ldquo;At once I could swallow you.&rdquo; The Tortoise said, in answer to this, &ldquo;Well, I just belong to the family of those whom it has always been customary to swallow.&rdquo; Then the Giraffe swallowed the Tortoise; but when the latter was being gulped down, it stuck in the Giraffe&apos;s throat, <pb id=pb31 n=31 facs="f:063">and as the latter could not get it down, he was choked to death.
+
+<p>When the Giraffe was dead, the Tortoise crawled out and went to the Crab (who is considered as the mother of the Tortoise), and told her what had happened. Then the Crab said&mdash;
+
+<lg>
+    <l>&ldquo;The little Crab! I could sprinkle it under its arm with boochoo,<note n=A>In token of approval, according to a Hottentot custom.</note>
+    <l>The crooked-legged little one, I could sprinkle under its arm.&rdquo;
+</lg>
+
+<p>The Tortoise answered its mother and said&mdash;
+
+<lg>
+    <l>&ldquo;Have you not always sprinkled me,
+    <l>That you want to sprinkle me now?&rdquo;
+</lg>
+
+<p>Then they went and fed for a whole year on the remains of the Giraffe.
+
+
+
+
+
+<pb id=pb32 n=32 facs="f:064">
+<div2 id=ch2.16 n=16>
+<head>16. THE TORTOISES HUNTING THE OSTRICHES.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, p. 8.)
+
+
+
+<p>One day, it is said, the Tortoises held a council how they might hunt Ostriches, and they said, &ldquo;Let us, on both sides, stand in rows near each other, and let one go to hunt the Ostriches, so that they must flee along through the midst of us.&rdquo; They did so, and as they were many, the Ostriches were obliged to run along through the midst of them. During this they did not move, but, remaining always in the same places, called each to the other, &ldquo;Are you there?&rdquo; and each one answered, &ldquo;I am here.&rdquo; The Ostriches hearing this, ran so tremendously that they quite exhausted their strength, and fell down. Then the Tortoises assembled by-and-by at the place where the Ostriches had fallen, and devoured them.
+
+
+
+
+
+<pb id=pb33 n=33 facs="f:065">
+<div1 id=ch3 n=III>
+<head type=label>III.</head>
+
+<head>BABOON FABLES.</head>
+
+<lg>
+    <l>Heretse!
+    <l>Heretse!
+    <l>Thou thin-armed one,
+    <l>Who hast thin hands!
+    <l>Thou smooth bulrush mat,
+    <l>Thou whose neck is bent.
+    <l>Thou who art made so as to be lifted up (upon a tree),
+    <l>Who liftest thyself up.
+    <l>Thou who wilt not die even behind <hi>that</hi> hill
+    <l>Which is yet beyond those hills,
+    <l>That lie on the other side of this far-distant hill.<note n=A>With reference to the Baboon&apos;s great power of distancing his pursuers.</note>
+</lg>
+
+
+
+
+<div2 id=ch3.17 n=17>
+<head>17. THE JUDGMENT OF THE BABOON.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, of this little Namaqualand Fable, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 33, 35.)
+
+
+
+<p>One day, it is said, the following story happened. The Mouse had torn the clothes of Itkler (the tailor), <pb id=pb34 n=34 facs="f:066">who then went to the Baboon, and accused the Mouse with these words:&mdash;
+
+<p>&ldquo;In this manner I come to thee:&mdash;The Mouse has torn my clothes, but will not know anything of it, and accuses the Cat; the Cat protests likewise her innocence, and says the Dog must have done it; but the Dog denies it also, and declares the Wood has done it; and the Wood throws the blame on the Fire, and says, &lsquo;The Fire did it;&rsquo; the Fire says, &lsquo;<hi>I</hi> have not, the Water did it;&rsquo; the Water says, &lsquo;The Elephant tore the clothes;&rsquo; and the Elephant says, &lsquo;The Ant tore them.&rsquo; Thus a dispute has arisen among them. Therefore I, Itkler, come to thee with this proposition: Assemble the people and try them, in order that I may get satisfaction.&rdquo;
+
+<p>Thus he spake, and the Baboon assembled them for trial. Then they made the same excuses which had been mentioned by Itkler, each one putting the blame upon the other.
+
+<p>So the Baboon did not see any other way of punishing them, save through making them punish each other; he therefore said&mdash;
+
+<p>&ldquo;Mouse, give Itkler satisfaction.&rdquo;
+
+<p>The Mouse, however, pleaded not guilty. But the Baboon said, &ldquo;Cat, bite the Mouse.&rdquo; She did so.
+
+<p>He then put the same question to the Cat, and when <pb id=pb35 n=35 facs="f:067">she exculpated herself, the Baboon called to the Dog, &ldquo;Here, bite the Cat.&rdquo;
+
+<p>In this manner the Baboon questioned them all, one after the other, but they each denied the charge. Then he addressed the following words to them, and said&mdash;
+
+<lg>
+    <l>&ldquo;Wood, beat the Dog.
+    <l>Fire, burn the Wood.
+    <l>Water, quench the Fire.
+    <l>Elephant, drink the Water.
+</lg>
+
+<p><corr>&ldquo;</corr>Ant, bite the Elephant in his most tender parts.&rdquo;
+
+<p>They did so, and since that day they cannot any longer agree with each other.
+
+<p>The Ant enters into the Elephant&apos;s most tender parts, and bites him.
+
+<lg>
+    <l>The Elephant swallows the Water.
+    <l>The Water quenches the Fire.
+    <l>The Fire consumes the Wood.
+    <l>The Wood beats the Dog.
+    <l>The Dog bites the Cat.
+    <l>And the Cat the Mouse.
+</lg>
+
+<p>Through this judgment Itkler got satisfaction, and addressed the Baboon in the following manner:&mdash; &ldquo;Yes! Now I am content, since I have received satisfaction, and with all my heart I thank thee, Baboon, because thou hast exercised justice on my behalf, and given me redress.&rdquo;
+
+<pb id=pb36 n=36 facs="f:068"><p>Then the Baboon said, &ldquo;From to-day I will not any longer be called Jan, but Baboon shall be my name.&rdquo;
+
+<p>Since that time the Baboon walks on all fours, having probably lost the privilege of walking erect through this foolish judgment.(?)
+
+
+
+
+<pb id=pb37 n=37 facs="f:069">
+<div2 id=ch3.18 n=18>
+<head>18. THE LION AND THE BABOON.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 14, 15.)
+
+
+<lg>
+    <head>THE BABOON.</head>
+
+            <l rend="indent(6)">Thou hollow-cheeked son
+            <l rend="indent(6)">Of a hollow-cheeked one,
+            <l rend="indent(6)">My hollow-cheeked one!
+            <l rend="indent(6)">Who hast two hip-bones,
+            <l rend="indent(6)">High hip-bones,
+    <l>With which thou sittest on the edge of the rock,
+    <l>Thou whose face appears like the edge of a rock.
+</lg>
+
+<p>The Baboon, it is said, once worked bamboos, sitting on the edge of a precipice, and the Lion stole upon him. The Baboon, however, had fixed some round, glistening, eye-like plates on the back of his head. When, therefore, the Lion crept upon him, he thought, when the Baboon was looking at him, that he sat with his back towards him, and crept with all his might upon him. When, however, the Baboon turned his back towards him, the Lion thought that he was seen, and hid himself. Thus, when the <pb id=pb38 n=38 facs="f:070">Baboon looked at him, he crept upon him. Whilst the Baboon did this, the Lion came close upon him. When he was near him the Baboon looked up, and the Lion continued to creep upon him. The Baboon said (aside), &ldquo;Whilst I am looking at him he steals upon me, whilst my hollow eyes are on him.&rdquo;
+
+<p>When at last the Lion sprung at him, he lay (quickly) down upon his face, and the Lion jumped over him, falling down the precipice, and was dashed to pieces.
+
+
+
+
+
+<pb id=pb39 n=39 facs="f:071">
+<div2 id=ch3.19 n=19>
+<head>19. THE ZEBRA STALLION.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, p. 17.)
+
+
+<lg>
+    <head>THE ZEBRA.</head>
+
+    <l>Thou who art thrown at by the great (shepherd) boys,
+    <l>Thou whose head the (kirrie&apos;s) throw misses!
+            <l rend="indent(6)">Thou dappled fly,
+            <l rend="indent(6)">Thou party-coloured one,
+            <l rend="indent(6)">Who spiest for those,
+            <l rend="indent(6)">That spy for thee!
+            <l rend="indent(6)">Thou who, womanlike,
+            <l rend="indent(6)">Art full of jealousy.
+</lg>
+
+<p>The Baboons, it is said, used to disturb the Zebra Mares in drinking. But one of the Mares became the mother of a foal. The others then helped her to suckle (the young stallion), that he might soon grow up.
+
+<p>When he was grown up, and they were in want of water, they brought him to the water. The Baboons, <pb id=pb40 n=40 facs="f:072">seeing this, came, as they formerly were used to do, into their way, and kept them from the water.
+
+<p>While the Mares stood thus, the Stallion stepped forward, and spoke to one of the Baboons, &ldquo;Thou gum-eater&apos;s child!&rdquo;
+
+<p>The Baboon said to the Stallion, &ldquo;Please open thy mouth, that I may see what thou livest on.&rdquo; The Stallion opened his mouth, and it was milky.
+
+<p>Then the Stallion said to the Baboon, &ldquo;Please open thy mouth also, that I may see.&rdquo; The Baboon did so, and there was some gum in it. But the Baboon quickly licked some milk off the Stallion&apos;s tongue. The Stallion on this became angry, took the Baboon by his shoulders, and pressed him upon a hot, flat rock. Since that day the Baboon has a bald place on his back.
+
+<p>The Baboon said, lamenting, &ldquo;I, my mother&apos;s child, I, the gum-eater, am outdone by this milk-eater!&rdquo;
+
+
+<lg>
+    <head>THE ZEBRA.</head>
+
+    <l>Thou <hi lang=naq>&lclick;ari</hi> shrub (<hi>i.e.</hi>, tough shrub, Dutch, &ldquo;critdorn&rdquo;),
+    <l>Thou who art of strong smell,
+    <l>Thou who rollest always in soft ground,
+    <l>Whose body retains the dust,
+    <pb id=pb41 n=41 facs="f:073"><l>Thou split kirrie of the shepherd boys,
+    <l>Thou split knob of a kirrie.
+    <l>Thou who drivest away by thy neighing
+    <l>The hunter who seeketh thee.
+    <l>Thou who crossest all rivers
+    <l>As if they were but one.
+</lg>
+
+
+
+
+
+
+<pb id=pb42 n=42 facs="f:074">
+<div2 id=ch3.20 n=20>
+<head>20. THE LOST CHILD.&mdash;[<hi rend=sc>A Tale.</hi>]</head>
+
+
+    <p rend=small>(From Sir James E. Alexander&apos;s &ldquo;Expedition of Discovery into the Interior of Africa,&rdquo; vol. ii. pp. 234, 235.)
+
+
+
+<p>The children belonging to a kraal were playing at some little distance from the huts with bows and arrows; in the evening they all returned home, save one, a boy of five or six years old, who lingered behind, and was soon surrounded by a troop of baboons, who carried him up a mountain.
+
+<p>The people turned out to recover the boy, and for days they hunted after him in vain; he was nowhere to be seen; the baboons also had left the neighbourhood.
+
+<p>A year after this had occurred, a mounted hunter came to the kraal from a distance, and told the people that he had crossed at such a place the spoor of baboons, along with the footmarks of a child. The people went to the place which the hunter had indicated, and they soon saw what they were in search of, viz., the boy, sitting on a pinnacle of rock, in company with a large baboon. The moment the people <pb id=pb43 n=43 facs="f:075">approached, the baboon took up the boy, and scampered off with him; but, after a close pursuit, the boy was recovered. He seemed quite wild, and tried to run away to the baboons again; however, he was brought back to the kraal, and when he recovered his speech, he said that the baboons had been very kind to him; that they ate scorpions and spiders themselves, but brought him roots, gum, and wild raisins, seeing that he did not touch the two first-named delicacies, and that they always allowed him to drink first at the waters.
+
+
+
+
+
+<pb id=pb44 n=44 facs="f:076">
+<div2 id=ch3.21 n=21>
+<head>21. THE BABOON SHEPHERD.&mdash;[<hi rend=sc>A Tale.</hi>]</head>
+
+
+    <p rend=small>(From Sir James E. Alexander&apos;s &ldquo;Expedition of Discovery into the Interior of Africa,&rdquo; vol. ii. pp. 229, 230.)
+
+
+
+<p>The Namaquas say that, not long ago, a man had brought up a young Baboon, and had made it his shepherd. It remained by the flock all day in the field, and at night drove them home to the kraal, riding on the back of one of the goats, which brought up the rear. The Baboon had the milk of one goat allowed to it, and it sucked that one only, and guarded the milk of the others from the children. It also got a little meat from its master. It held the office of shepherd for twelve moons, and then was unfortunately killed in a tree by a Leopard.
+
+
+
+
+
+<pb id=pb45 n=45 facs="f:077">
+<div1 id=ch4 n=IV>
+<head type=label>IV.</head>
+
+<head>LION FABLES.</head>
+
+
+<div2 id=ch4.22 n=22>
+<head>22. THE FLYING LION.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 3, 4.)
+
+
+
+<p>The Lion, it is said, used once to fly, and at that time nothing could live before him. As he was unwilling that the bones of what he caught should be broken into pieces, he made a pair of White Crows watch the bones, leaving them behind at the kraal whilst he went a-hunting. But one day the great Frog came there, broke the bones in pieces, and said, &ldquo;Why can men and animals live no longer?&rdquo; And he added these words, &ldquo;When he comes, tell him that I live at yonder pool; if he wishes to see me, he must come there.&rdquo;
+
+<p>The Lion, lying in wait (for game), wanted to fly up, but found he could not fly. Then he got angry, <pb id=pb46 n=46 facs="f:078">thinking that at the kraal something was wrong, and returned home. When he arrived, he asked, &ldquo;What have you done that I cannot fly?&rdquo; Then they answered and said, &ldquo;Some one came here, broke the bones into pieces, and said, &lsquo;If he wants me, he may look for me at yonder pool!&rsquo;&rdquo; The Lion went, and arrived while the Frog was sitting at the water&apos;s edge, and he tried to creep stealthily upon him. When he was about to get hold of him, the Frog said, &ldquo;Ho!&rdquo; and, diving, went to the other side of the pool, and sat there. The Lion pursued him; but as he could not catch him he returned home.
+
+<p>From that day, it is said, the Lion walked on his feet, and also began to creep upon (his game); and the White Crows became entirely dumb since the day that they said, &ldquo;Nothing can be said of that matter.&rdquo;
+
+
+
+
+
+<pb id=pb47 n=47 facs="f:079">
+<div2 id=ch4.23 n=23>
+<head>23. THE LION WHO THOUGHT HIMSELF WISER THAN HIS MOTHER.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 31, 33.)
+
+
+
+<p>It is said that when the Lion and <hi lang=naq>&dclick;gurikhoisip</hi><note n=A>The &dclick; is the dental click, which is &ldquo;sounded by pressing the tip of the tongue against the front teeth of the upper jaw, and then suddenly and forcibly withdrawing it.&rdquo;&mdash;<hi rend=sc>Tindall.</hi></note> (the Only man), together with the Baboon, the Buffalo, and other friends, were playing one day at a certain game, there was a thunderstorm and rain at <hi lang=naq>&aclick;aro&chi;aams</hi>.<note n=B>The &aclick; is the palatal click, described in note to Fable 24. p. 55, and &chi; is the German <hi>ch</hi>.</note> The Lion and <hi lang=naq>&dclick;gurikhoisip</hi> began to quarrel. &ldquo;I shall run to the rain-field,&rdquo; said the Lion. <hi lang=naq>&dclick;Gurikhoisip</hi> said also, &ldquo;I shall run to the rain-field.&rdquo; As neither would concede this to the other, they separated (angrily). After they had parted, the Lion went to tell his Mother those things which they had both said.
+
+<pb id=pb48 n=48 facs="f:080"><p>His Mother said to him, &ldquo;My Father! that Man whose head is in a line with his shoulders and breast, who has pinching weapons, who keeps white dogs, who goes about wearing the tuft of a tiger&apos;s tail, beware of him!&rdquo; The Lion, however, said, &ldquo;Why need I be on my guard against those whom I know?&rdquo; The Lioness answered, &ldquo;My Son, take care of him who has pinching weapons!&rdquo; But the Lion would not follow his Mother&apos;s advice, and the same morning, when it was still pitch dark, he went to <hi lang=naq>&aclick;aro&chi;aams</hi>, and laid himself in ambush. <hi lang=naq>&dclick;Gurikhoisip</hi> went also that morning to the same place. When he had arrived he let his dogs drink, and then bathe. After they had finished they wallowed. Then also the man drank; and, when he had done drinking, the Lion came out of the bush. The dogs surrounded him, as his mother had foretold, and he was speared by <hi lang=naq>&dclick;gurikhoisip</hi>. Just as he became aware that he was speared, the dogs drew him down again. In this manner he grew faint. While he was in this state, <hi lang=naq>&dclick;gurikhoisip</hi> said to the dogs, &ldquo;Let him alone now, that he may go and be taught by his Mother.&rdquo; So the dogs let him go. They left him, and went home as he lay there. The same night he walked towards home, but whilst he was on the way his strength failed him, and he lamented:
+
+<pb id=pb49 n=49 facs="f:081">
+
+<lg>
+          <l rend="indent(4)">&ldquo;Mother! take me up!
+    <l>Grandmother! take me up! Oh me! Alas!&rdquo;
+</lg>
+
+<p>At the dawn of day his Mother heard his wailing, and said&mdash;
+
+<p>&ldquo;My Son, this is the thing which I have told thee:&mdash;
+
+<lg>
+    <l><corr>&ldquo;</corr>Beware of the one who has pinching weapons,
+    <l>Who wears a tuft of tiger&apos;s tail,
+    <l>Of him who has white dogs!
+    <l>Alas! Thou son of her who is short-eared,
+    <l>Thou, my short-eared child!
+    <l>Son of her who eats raw flesh,
+    <l>Thou flesh-devourer;
+    <l>Son of her whose nostrils are red from the prey,
+    <l>Thou with blood-stained nostrils!
+    <l>Son of her who drinks pit-water,
+    <l>Thou water-drinker!&rdquo;
+</lg>
+
+
+
+
+
+<pb id=pb50 n=50 facs="f:082">
+<div2 id=ch4.24 n=24>
+<head>24. THE LION WHO TOOK A WOMAN&apos;S SHAPE.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 60, 65.)
+
+
+
+<p>Some women, it is said, went out to seek roots and herbs and other wild food. On their way home they sat down and said, &ldquo;Let us taste the food of the field.&rdquo; Now they found that the food picked by one of them was sweet, while that of the others was bitter. The latter said to each other, &ldquo;Look here! this woman&apos;s herbs are sweet.&rdquo; Then they said to the owner of the sweet food, &ldquo;Throw it away and seek for other&rdquo;&mdash;(sweet-tasted herbs being apparently unpalatable to the Hottentot). So she threw away the food, and went to gather more. When she had collected a sufficient supply, she returned to join the other women, but could not find them. She went therefore down to the river, where the Hare sat lading water, and said to him, &ldquo;Hare, give me some water that I may drink.&rdquo; But he replied, &ldquo;This is the cup out of which my uncle (the Lion) and I alone may drink.&rdquo;
+
+<p>She asked again: &ldquo;Hare, draw water for me that <pb id=pb51 n=51 facs="f:083">I may drink.&rdquo; But the Hare made the same reply. Then she snatched the cup from him and drank, but he ran home to tell his uncle of the outrage which had been committed.
+
+<p>The Woman meanwhile replaced the cup and went away. After she had departed the Lion came down, and, seeing her in the distance, pursued her on the road. When she turned round and saw him coming, she sang in the following manner:&mdash;
+
+<lg>
+    <l>&ldquo;My mother, she would not let me seek herbs,
+    <l>Herbs of the field, food from the field. Hoo!&rdquo;
+</lg>
+
+<p>When the Lion at last came up with the Woman, they hunted each other round a shrub. She wore many beads and arm-rings, and the Lion said, &ldquo;Let me put them on!&rdquo; So she lent them to him, but he afterwards refused to return them to her.
+
+<p>They then hunted each other again round the shrub, till the Lion fell down, and the Woman jumped upon him, and kept him there. The Lion (uttering a form of conjuration) said:
+
+<lg>
+    <l>&ldquo;My Aunt! it is morning, and time to rise;
+      <l rend="indent(2)">Pray, rise from me!&rdquo;
+</lg>
+
+<p rend=noindent>She then rose from him, and they hunted again after each other round the shrub, till the Woman fell down, <pb id=pb52 n=52 facs="f:084">and the Lion jumped upon her. She then addressed him:
+
+<lg>
+    <l>&ldquo;My Uncle! it is morning, and time to rise;
+      <l rend="indent(2)">Pray, rise from me!&rdquo;
+</lg>
+
+<p rend=noindent>He rose, of course, and they hunted each other again, till the Lion fell a second time. When she jumped upon him, he said:
+
+<lg>
+    <l>&ldquo;My Aunt! it is morning, and time to rise;
+      <l rend="indent(2)">Pray, rise from me!&rdquo;
+</lg>
+
+<p rend=noindent>They rose again and hunted after each other. The Woman at last fell down. But this time, when she repeated the above conjuration, the Lion said:
+
+<lg>
+    <l>&ldquo;Hè Kha! <hi>Is</hi> it morning, and time to rise?&rdquo;
+</lg>
+
+<p rend=noindent>He then ate her, taking care, however, to leave her skin whole, which he put on, together with her dress and ornaments, so that he looked quite like a woman, and then went home to her kraal.
+
+<p>When this counterfeit woman arrived, her little sister, crying, said, &ldquo;My sister, pour some milk out for me.&rdquo; She answered, &ldquo;I shall not pour you out any.&rdquo; Then the child addressed their Mother: &ldquo;Mama, do pour out some for me.&rdquo; The Mother of the kraal said, &ldquo;Go to your sister, and let her give <pb id=pb53 n=53 facs="f:085">it to you!&rdquo; The little child said again to her sister, &ldquo;Please, pour out for me!&rdquo; She, however, repeated her refusal, saying, &ldquo;I will not do it.&rdquo; Then the Mother of the kraal said to the little one, &ldquo;I refused to let her (the elder sister) seek herbs in the field, and I do not know what may have happened; go therefore to the Hare, and ask him to pour out for you.&rdquo;
+
+<p>So the Hare gave her some milk; but her elder sister said, &ldquo;Come and share it with me.&rdquo; The little child then went to her sister with her bamboo (cup), and they both sucked the milk out of it. Whilst they were doing this, some milk was spilt on the little one&apos;s hand, and the elder sister licked it up with her tongue, the roughness of which drew blood; this, too, the Woman licked up.
+
+<p>The little child complained to her Mother: &ldquo;Mama, sister pricks holes in me, and sucks the blood.&rdquo; The Mother said, &ldquo;With what lion&apos;s nature your sister went the way that I forbade her, and returned, I do not know.&rdquo;
+
+<p>Now the cows arrived, and the elder sister cleansed the pails in order to milk them. But when she approached the cows with a thong (in order to tie their fore-legs), they all refused to be milked by her.
+
+<p>The Hare said, &ldquo;Why do not you stand before the cow?&rdquo; She replied, &ldquo;Hare, call your brother, and <pb id=pb54 n=54 facs="f:086">do you two stand before the cow.&rdquo; Her husband said, &ldquo;What has come over her that the cows refuse her? These are the same cows she always milks.&rdquo; The Mother (of the kraal) said, &ldquo;What has happened this evening? These are cows which she always milks without assistance. What can have affected her that she comes home as a woman with a lion&apos;s nature?&rdquo;
+
+<p>The elder daughter then said to her Mother, &ldquo;I shall not milk the cows.&rdquo; With these words she sat down. The Mother said therefore to the Hare, &ldquo;Bring me the bamboos, that I may milk. I do not know what has come over the girl.&rdquo;
+
+<p>So the Mother herself milked the cows, and when she had done so, the Hare brought the bamboos to the young wife&apos;s house, where her husband was, but she (the wife) did not give him (her husband) anything to eat. But when at night time she fell asleep, they saw some of the Lion&apos;s hair, which was hanging out where he had slipped on the woman&apos;s skin, and they cried, &ldquo;Verily! this is quite another being. It is for this reason that the cows refused to be milked.&rdquo;
+
+<p>Then the people of the kraal began to break up the hut in which the Lion lay asleep. When they took off the mats, they said (conjuring them), &ldquo;If thou art favourably inclined to me, O mat, give the sound &lsquo;<hi lang=naq>sawa</hi>&rsquo;&rdquo; (meaning, making no noise).
+
+<pb id=pb55 n=55 facs="f:087"><p>To the poles (on which the hut rested) they said, &ldquo;If thou art favourably inclined to me, O pole, thou must give the sound <hi lang=naq>&aclick;gara</hi>.&rdquo;<note n=A>&aclick; Indicates the palatal click, which is sounded by pressing the tip of the tongue, with as flat a surface as possible, against the termination of the palate at the gums, and withdrawing it suddenly and forcibly.</note>
+
+<p>They addressed also the bamboos and the bed-skins in a similar manner.
+
+<p>Thus gradually and noiselessly they removed the hut and all its contents. Then they took bunches of grass, put them over the Lion, and lighting them, said, &ldquo;If thou art favourably inclined to me, O fire, thou must flare up, &lsquo;<hi>boo boo</hi>,&rsquo; before thou comest to the heart.&rdquo;
+
+<p>So the fire flared up when it came towards the heart, and the heart of the Woman jumped upon the ground. The Mother (of the kraal) picked it up, and put it into a calabash.
+
+<p>The Lion, from his place in the fire, said to the Mother (of the kraal), &ldquo;How nicely I have eaten your daughter.&rdquo; The Woman answered, &ldquo;You have also now a comfortable place!&rdquo; &ast;&nbsp;&ast;&nbsp;&ast;
+
+<p>Now the Woman took the first milk of as many cows as calved, and put it into the calabash where her daughter&apos;s heart was; the calabash increased in size, and in proportion to this the girl grew again inside it.
+
+<pb id=pb56 n=56 facs="f:088"><p>One day, when the Mother (of the kraal) went out to fetch wood, she said to the Hare, &ldquo;By the time that I come back you must have everything nice and clean.&rdquo; But during her Mother&apos;s absence, the girl crept out of the calabash, and put the hut in good order, as she had been used to do in former days, and said to the Hare, &ldquo;When mother comes back and asks, &lsquo;Who has done these things?&rsquo; you must say, &lsquo;I, the Hare, did them.&rsquo;&rdquo; After she had done all, she hid herself on the stage.<note n=A>The stage is that apparatus in the background of the hut (built of mats) opposite the door, upon which the Hottentots hang their bamboos, bags of skins, and other things, and under which the women generally keep their mats.</note>
+
+<p>When the Mother (of the kraal) came home, she said, &ldquo;Hare, who has done these things? They look just as they used when my daughter did them.&rdquo; The Hare said, &ldquo;I did the things.&rdquo; But the Mother would not believe it, and looked at the calabash. Seeing it was empty, she searched the stage and found her daughter. Then she embraced and kissed her, and from that day the girl stayed with her mother, and did everything as she was wont in former times; but she now remained unmarried.
+
+
+
+
+
+
+<pb id=pb57 n=57 facs="f:089">
+<div2 id=ch4.25 n=25>
+<head>25. A WOMAN TRANSFORMED INTO A LION.</head>
+
+<p>[<hi rend=sc>A Tale.</hi>]
+
+
+    <p rend=small>(From Sir James E. Alexander&apos;s &ldquo;Expedition of Discovery into the Interior of Africa,&rdquo; vol. ii. pp. 197, 198.)
+
+
+
+<p>Once upon a time a certain Hottentot was travelling in company with a Bushwoman, carrying a child on her back. They had proceeded some distance on their journey, when a troop of wild horses appeared, and the Man said to the Woman, &ldquo;I am hungry; and as I know you can turn yourself into a Lion, do so now, and catch us a wild horse, that we may eat.&rdquo;
+
+<p>The Woman answered, &ldquo;You will be afraid.&rdquo;
+
+<p>&ldquo;No, no,&rdquo; said the Man; &ldquo;I am afraid of dying of hunger, but not of you.&rdquo;
+
+<p>Whilst he was yet speaking, hair began to appear at the back of the Woman&apos;s neck; her nails gradually assumed the appearance of claws, and her features altered. She sat down the child.
+
+<p>The Man, alarmed at the change, climbed a tree close by. The Woman glared at him fearfully, and going to one side, she threw off her skin petticoat, when <pb id=pb58 n=58 facs="f:090">a perfect Lion rushed into the plain. It bounded and crept among the bushes towards the wild horses, and springing on one of them, it fell, and the Lion lapped its blood. The Lion then came back to where the child was crying, and the man called from the tree, &ldquo;Enough, enough! don&apos;t hurt me. Put off your lion&apos;s shape, I&apos;ll never ask to see this again.&rdquo;
+
+<p>The Lion looked at him and growled. &ldquo;I&apos;ll remain here till I die,&rdquo; said the Man, &ldquo;if you don&apos;t become a woman again.&rdquo; The mane and tail then began to disappear, the Lion went towards the bush where the skin petticoat lay; it was slipped on, and the woman, in her proper shape, took up the child. The Man descended and partook of the horse&apos;s flesh, but never again asked the Woman to catch game for him.
+
+
+
+
+
+<pb id=pb59 n=59 facs="f:091">
+<div2 id=ch4.26 n=26>
+<head>26. THE LION AND THE BUSHMAN.</head>
+
+<p>[<hi rend=sc>A Tale.</hi>]
+
+
+    <p rend=small>(From Sir James E. Alexander&apos;s &ldquo;Expedition of Discovery into the Interior of Africa,&rdquo; vol. ii. p. 51.)
+
+
+
+<p>A Bushman was, on one occasion, following a troop of zebras, and had just succeeded in wounding one with his arrows, when a Lion sprang out from a thicket opposite, and showed every inclination to dispute the prize with him. The Bushman being near a convenient tree, threw down his arms, and climbed for safety to an upper branch. The Lion, allowing the wounded zebra to pass on, now turned his whole attention towards the Bushman, and walking round and round the tree, he ever and anon growled and looked up at him. At length the Lion lay down at the foot of the tree, and kept watch all night. Towards morning sleep overcame the hitherto wakeful Bushman, and he dreamt that he had fallen into the Lion&apos;s mouth. Starting from the effects of his dream, he lost his hold, and, falling from the branch, he <pb id=pb60 n=60 facs="f:092">alighted heavily on the Lion; on which the monster, thus unexpectedly saluted, ran off with a loud roar, and the Bushman, also taking to his heels in a different direction, escaped in safety.
+
+
+
+
+
+
+<pb id=pb61 n=61 facs="f:093">
+<div1 id=ch5 n=V>
+<head type=label>V.</head>
+
+<head>VARIOUS FABLES.</head>
+
+
+<lg>
+    <head>THE ELEPHANT.</head>
+
+    <l>Thou tall acacia full of branches,
+    <l>Thou ebony tree with leaves spread round about.
+</lg>
+
+
+
+<div2 id=ch5.27>
+<head>27. HOW A NAMA WOMAN OUTWITTED THE ELEPHANTS.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 1, 3.)
+
+
+
+<p>An Elephant, it is said, was married to a Nama Hottentot woman, whose two brothers came to her secretly, because they were afraid of her husband. Then she went out as if to fetch wood, and putting them within the wood, she laid them on the stage.<note n=A><hi>Vide</hi> Note to Fable 24, p. 56.</note> Then she said, &ldquo;Since I married into this kraal, has a wether been slaughtered also for me?&rdquo; And her blind mother-in-law <pb id=pb62 n=62 facs="f:094">answered, &ldquo;Umph! things are said by the wife of my eldest son, which she never said before.&rdquo;
+
+<p>Thereupon the Elephant, who had been in the field, arrived, and smelling something, rubbed against the house. &ldquo;Ha,&rdquo; said his wife, &ldquo;what I should not have done formerly, I do now. On what day did you slaughter a wether for me?&rdquo; Then the mother-in-law said to him: &ldquo;As she says things which she did not say (before), do it now.&rdquo;
+
+<p>In this manner a wether was slaughtered (for her), which she roasted whole, and then, in the same night (after supper), asked her mother-in-law the following questions:&mdash;&ldquo;How do you breathe when you sleep the sleep of life? (light sleep, half-conscious.) And how when you sleep the sleep of death?&rdquo; (deep sleep.)
+
+<p>Then the mother-in-law said, &ldquo;Umph, an evening full of conversation! When we sleep the sleep of death, we breathe thus: &lsquo;<hi lang=naq>s&#x169;i s&#x169;i!</hi>&rsquo; and when we sleep the sleep of life we breathe thus: &lsquo;<hi lang=naq>&Chi;ou &rclick;áwaba! &Chi;ou &rclick;áwaba!</hi>&rsquo;&rdquo;<note n=A><hi>&Chi;</hi> is the German <hi>ch</hi>, and <hi>&rclick;</hi> the cerebral click of the Hottentot language, which is &ldquo;sounded by sending up the tip of the tongue against the roof of the palate, and withdrawing it forcibly and suddenly.&rdquo;&mdash;<hi rend=sc>Tindall.</hi></note>
+
+<p>Thus the wife made everything right whilst they fell asleep. Then she listened to their snoring, and <pb id=pb63 n=63 facs="f:095">when they slept thus, <hi lang=naq>s&#x169;i s&#x169;i</hi>, she rose and said to her two brothers, &ldquo;The sleep of death is over them, let us make ready.&rdquo; They rose and went out, and she broke up the hut<note n=A>Hottentot huts being merely made of skins stretched over a frame, are carried about by the people in their wanderings.</note> (to carry away all that she could), and took the necessary things, and said, &ldquo;That thing which makes any noise wills my death.&rdquo; So they kept altogether quiet.
+
+<p>When her two brothers had packed up, she went with them between the cattle, but she left at home one cow, one ewe, and one goat, and directed them, saying to the cow, &ldquo;You must not low as if you were by yourself alone, if you do not wish for my death;&rdquo; and she taught the ewe and the goat the same.
+
+<p>Then they departed with all the other cattle, and those who were left behind lowed during the night as if they were many, and as they lowed as if they were still all there, the Elephant thought, &ldquo;They are all there.&rdquo; But when he rose in the morning, he saw that his wife and all the cattle were gone. Taking his stick into his hands, he said to his mother, &ldquo;If I fall the earth will tremble.&rdquo; With these words he followed them. When they saw him approaching, they ran fast to the side, against a piece of rock (at a <pb id=pb64 n=64 facs="f:096">narrow spot), and she said, &ldquo;We are people, behind whom a large (travelling) party comes. Stone of my ancestors! divide thyself for us.&rdquo; Then the rock divided itself, and when they had passed through it, it closed again (behind them).
+
+<p>Then came the Elephant, and said to the rock, &ldquo;Stone of my ancestors! divide thyself also for me.&rdquo; The rock divided itself again, but when he had entered, it closed upon him. Thus died the Elephant, and the earth trembled. The mother at her hut said then, &ldquo;As my eldest son said, it has happened. The earth shakes.&rdquo;
+
+
+
+
+
+<pb id=pb65 n=65 facs="f:097">
+<div2 id=ch5.28 n=28>
+<head>28. A BAD SISTER.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 15, 16.)
+
+
+
+<p>Copper and Weather, it is said, were man and wife, and begat a daughter, who married amongst other people.
+
+<p>Her three brothers came to visit her; and she did not know them (as such), though the people said, &ldquo;Do not you see they are your brothers?&rdquo; She determined to kill them at night. They had, however, a Guinea-fowl to watch them.
+
+<p>When the Copper-Weather relative crept near, in order to kill the men, the Guinea-fowl made a noise to put them on their guard. They were thus warned of the danger; but afterwards they fell asleep again. Then she stole again upon them. The Guinea-fowl made a noise, but broke the rope by which it had been fastened, and ran home. She then killed her brothers. When the Guinea-fowl came near home it wept:&mdash;
+
+<pb id=pb66 n=66 facs="f:098"><lg>
+    <l>&ldquo;The Copper-Weather relative has killed her brothers!
+    <l>Alas! she has killed her brothers!&rdquo;
+</lg>
+
+<p>The wife heard it, and said to her husband&mdash;
+
+<lg>
+    <l>&ldquo;Do not you hear what the bird weeps for?
+    <l>You who sit here upon the ground working bamboos.&rdquo;
+</lg>
+
+<p>The man said, &ldquo;Come and turn yourself into a mighty thunderstorm, and I will be a strong wind.&rdquo;
+
+<p>So they transformed themselves accordingly, and when they came near to the kraal (where their sons had been killed), they combined and became a fire, and as a fiery rain they burnt the kraal and all its inhabitants.
+
+
+
+
+
+
+<pb id=pb67 n=67 facs="f:099">
+<div1 id=ch6 n=VI>
+<head type=label>VI.</head>
+
+<head>SUN AND MOON FABLES.</head>
+
+
+<div2 id=ch6.29 n=29>
+<head>29. WHY HAS THE JACKAL A LONG BLACK STRIPE ON HIS BACK?</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, p. 16.)
+
+
+
+<p>The Sun, it is said, was one day on earth, and the men who were travelling saw him sitting by the wayside, but passed him without notice. The Jackal, however, who came after them, and saw him also sitting, went to him and said, &ldquo;Such a fine little child is left behind by the men.&rdquo; He then took the Sun up, and put it into his awa-skin (on his back). When it burnt him, he said, &ldquo;Get down,&rdquo; and shook himself; but the Sun stuck fast to his back, and burnt the Jackal&apos;s back black from that day.
+
+
+
+
+
+<pb id=pb68 n=68 facs="f:100">
+<div2 id=ch6.30 n=30>
+<head>30. THE HORSE CURSED BY THE SUN.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, of this little Namaqualand Fable, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, p. 53.)
+
+
+
+<p>It is said that once the Sun was on earth, and caught the Horse to ride it. But it was unable to bear his weight, and therefore the Ox took the place of the Horse, and carried the Sun on its back. Since that time the Horse is cursed in these words, because it could not carry the Sun&apos;s weight:&mdash;
+
+<lg>
+    <l>&ldquo;From to-day thou shalt have a (certain) time of dying.
+    <l>This is thy curse, that thou hast a (certain) time of dying.
+    <l>And day and night shalt thou eat,
+    <l>But the desire of thy heart shall not be at rest,
+    <l>Though thou grazest till morning and again until sunset.
+    <l>Behold, this is the judgment which I pass upon thee,&rdquo; said the Sun.
+</lg>
+
+<p>Since that day the Horse&apos;s (certain) time of dying commenced.
+
+
+
+
+<pb id=pb69 n=69 facs="f:101">
+<div1 id=ch6.31 n=31>
+<head>31. THE ORIGIN OF DEATH.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 33, 34.)
+
+
+
+<p>The Moon, it is said, sent once an Insect to Men, saying, &ldquo;Go thou to Men, and tell them, &lsquo;As I die, and dying live, so ye shall also die, and dying live.&rsquo;&rdquo; The Insect started with the message, but whilst on his way was overtaken by the Hare, who asked: &ldquo;On what errand art thou bound?&rdquo; The Insect answered: &ldquo;I am sent by the Moon to Men, to tell them that as she dies, and dying lives, they also shall die, and dying live.&rdquo; The Hare said, &ldquo;As thou art an awkward runner, let me go&rdquo; (to take the message). With these words he ran off, and when he reached Men, he said, &ldquo;I am sent by the Moon to tell you, &lsquo;As I die, and dying perish, in the same manner ye shall also die and come wholly to an end.&rsquo;&rdquo; Then the Hare returned to the Moon, and told her what he had said to Men. The Moon reproached him angrily, saying, &ldquo;Darest thou tell <pb id=pb70 n=70 facs="f:102">the people a thing which I have not said?&rdquo; With these words she took up a piece of wood, and struck him on the nose. Since that day the Hare&apos;s nose is slit.
+
+
+
+
+
+<pb id=pb71 n=71 facs="f:103">
+<div2 id=ch6.32 n=32>
+<head>32. ANOTHER VERSION OF THE SAME FABLE.</head>
+
+
+    <p rend=small>(From H. C. Knudsen&apos;s &ldquo;<foreign lang=de>Gross-Namaqualand</foreign>,&rdquo; 12mo., Barmen, 1848, pp. 27, 28.)
+
+
+
+<p>The Moon dies, and rises to life again. The Moon said to the Hare, &ldquo;Go thou to Men, and tell them, &lsquo;Like as I die and rise to life again, so you also shall die and rise to life again.&rsquo;&rdquo; The Hare went to the Men, and said, &ldquo;Like as I die and do not rise to life again, so you shall also die, and not rise to life again.<corr sic="&rsquo;">&rdquo;</corr> When he returned, the Moon asked him, &ldquo;What hast thou said?&rdquo; &ldquo;I have told them, &lsquo;Like as I die and do not rise to life again, so you shall also die and not rise to life again.&rsquo;&rdquo; &ldquo;What,&rdquo; said the Moon, &ldquo;hast thou said that?&rdquo; And she took a stick and beat the Hare on his mouth, which was slit by the blow. The Hare fled, and is still fleeing.<corr sic="&rdquo;"></corr><note n=A>&ldquo;We are now angry with the Hare,&rdquo; say the old Namaqua, &ldquo;because he brought such a bad message, and therefore we dislike to eat his flesh.&rdquo;&mdash;<hi rend=sc>Knudsen.</hi></note>
+
+
+
+
+
+<pb id=pb72 n=72 facs="f:104">
+<div2 id=ch6.33 n=33>
+<head>33. A THIRD VERSION OF THE SAME FABLE.</head>
+
+
+    <p rend=small>(From an original Manuscript in English, by Mr. John Priestley, in Sir G. Grey&apos;s Library.)
+
+
+
+<p>The Moon, on one occasion, sent the Hare to the earth to inform Men that as she (the Moon) died away and rose again, so mankind should die and rise again. Instead, however, of delivering this message as given, the Hare, either out of forgetfulness or malice, told mankind that as the Moon rose and died away, so Man should die and rise no more. The Hare, having returned to the Moon, was questioned as to the message delivered, and the Moon, having heard the true state of the case, became so enraged with him that she took up a hatchet to split his head; falling short, however, of that, the hatchet fell upon the upper lip of the Hare, and cut it severely. Hence it is that we see the &ldquo;Hare-lip.&rdquo; The Hare, being duly incensed at having received such treatment, raised his claws, and scratched the Moon&apos;s face; and the dark parts which we now see on the surface of the Moon are the scars which she received on that occasion.
+
+
+
+
+
+<pb id=pb73 n=73 facs="f:105">
+<div2 id=ch6.34 n=34>
+<head>34. A FOURTH VERSION OF THE SAME FABLE.</head>
+
+
+    <p rend=small>(From Sir James E. Alexander&apos;s &ldquo;Expedition of Discovery into the Interior of Africa,&rdquo; vol. i. p. 169.)
+
+
+
+<p>The Moon, they say, wished to send a message to Men, and the Hare said that he would take it. &ldquo;Run, then,&rdquo; said the Moon, &ldquo;and tell Men that as I die and am renewed, so shall they also be renewed.&rdquo; But the Hare deceived Men, and said, &ldquo;As I die and perish, so shall you also.&rdquo;<note n=A>Old Namaquas will not therefore touch Hare&apos;s flesh; but the young men may partake of it; that is, before the ceremony of making them men is performed, which merely consists in slaughtering and eating an ox or a couple of sheep.&mdash;<hi rend=sc>Alexander.</hi></note>
+
+
+
+
+
+
+<pb id=pb74 n=74 facs="f:106">
+<div2 id=ch6.35 n=35>
+<head>35. A ZULU VERSION OF THE LEGEND OF THE &ldquo;ORIGIN OF DEATH.&rdquo;</head>
+
+
+    <p rend=small>(From Manuscript, &ldquo;Zulu Legends,&rdquo; No. 214 of Sir G. Grey&apos;s Library, vol. i. part i. p. 107.)
+
+
+
+<p>God (<hi lang=naq>Unknlunkuln</hi>) arose from beneath (the seat of the spiritual world, according to the Zulu idea), and created in the beginning<note n=A><hi lang=naq>Ohlangeni.</hi> <hi>Vide</hi> Colenso&apos;s &ldquo;Zulu-English Dictionary,&rdquo; p. 179.</note> men, animals, and all things. He then sent for the Chameleon, and said, &ldquo;Go, Chameleon, and tell Men that they shall not die.&rdquo; The Chameleon went, but it walked slowly, and loitered on the way, eating of a shrub called <hi lang=naq>Bukwebezane</hi>.
+
+<p>When it had been away some time, God sent the Salamander after it, ordering him to make haste and tell Men that they should die. The Salamander went on his way with this message, outran the Chameleon, and, arriving first where the Men were, told them that they must die.
+
+
+
+
+
+<pb id=pb75 n=75 facs="f:107">
+<div1 id=ch7 n=VII>
+<head type=label>VII.</head>
+
+<head>HEITSI EIBIP AND OTHER LEGENDS.</head>
+
+
+
+
+<div2 id=ch7.36 n=36>
+<head>36. HEITSI EIBIP.</head>
+
+
+    <p rend=small>(From a German original Manuscript in Sir G. Grey&apos;s Library, H. C. Knudsen&apos;s &ldquo;Notes on the Hottentots,&rdquo; p. 7.)
+
+
+
+<p><hi resp=jh>Heitsi Eibip</hi>, or <hi lang=naq>Kabip</hi>, was a great and celebrated sorcerer among the Namaqua. He could tell secret things, and prophesy what was to happen afterwards.
+
+<p>Once he was travelling with a great number of people, and an enemy pursued them. On arriving at some water he said, &ldquo;My grandfather&apos;s father, open thyself that I may pass through, and close thyself afterwards.&rdquo; So it took place as he had said, and they went safely through. Then their enemies tried to pass through the opening also, but when they were in the midst of it, it closed again upon them, and they perished.<note n=A>Knudsen, who heard this legend from the Hottentot Petrus Friedrik, was afterwards informed that <hi lang=naq>Heitsi Eibip</hi> <pb id=pb76 n=76 facs="f:108">was not the person meant in this tale. It looks very much like the end of our 27th Fable, of the Woman who outwitted the Elephants.</note>
+
+<pb id=pb76a n=76 facs="f:108"><p><hi lang=naq>Heitsi <sic>Kabip</sic></hi> died several times, and came to life again. When the Hottentots pass one of his graves they throw a stone on it for good luck.<note n=A>Sir James E. Alexander, in his &ldquo;Expedition of Discovery into the Interior of Africa,&rdquo; vol. i. p. 166, speaking of the people at Warm Bath, or Nisbett Bath, says:&mdash;&ldquo;These Namaquas thought that they came from the East. In the country there is occasionally found (besides the common graves covered with a heap of stones) large heaps of stones, on which had been thrown a few bushes; and if the Namaquas are asked what these are, they say that <hi lang=naq>Heije Eibib</hi>, their Great Father, is below the heap; they do not know what he is like, or what he does; they only imagine that he also came from the East, and had plenty of sheep and goats; and when they add a stone or branch to the heap, they mutter, &lsquo;Give us plenty of cattle.&rsquo;&rdquo;</note>
+
+<p><hi lang=naq>Heitsi Eibip</hi> could take many different forms. Sometimes he appeared handsome, very handsome, or his hair grew long down to his shoulders; at other times it was again short.
+
+
+
+
+
+
+
+<pb id=pb77 n=77 facs="f:109">
+<div2 id=ch7.37 n=37>
+<head>37. THE VICTORY OF HEITSI EIBIP.</head>
+
+
+    <p rend=small>(From a German original Manuscript in Sir G. Grey&apos;s Library, H. C. Knudsen&apos;s &ldquo;Notes on the Hottentots,&rdquo; p. 7.)
+
+
+
+<p>At first they were two. One had made a large hole in the ground, and sat by it, and told passers-by to throw a stone at his forehead. The stone, however, rebounded and killed the person who had thrown it, so that he fell into the hole. At last <hi lang=naq>Heitsi Eibip</hi> was told that in this manner many people died. So he arose and went to the man, who challenged <hi lang=naq>Heitsi Eibip</hi> to throw (a stone) at him. The latter, however, declined, for he was too prudent; but he drew the man&apos;s attention to something on one side, and while he turned round to look at it, <hi lang=naq>Heitsi Eibip</hi> hit him behind the ear, so that he died and fell into his own hole. After that there was peace, and people lived happily.<note n=A>Sir James Alexander, in his &ldquo;Expedition of Discovery into the Interior of Africa,&rdquo; vol. ii. p. 250, states:&mdash;&ldquo;On the 3rd of August the waggon went on to Aneip, or Wet Foot, and I went out of the way with Jan Buys, and two or three men, to see a hole, which was supposed to be inhabited by <hi lang=naq>Heije Eibib</hi>, and was the wonder of the country.&rdquo;</note>
+
+
+
+
+
+
+<pb id=pb78 n=78 facs="f:110">
+<div2 id=ch7.38 n=38>
+<head>38. ANOTHER VERSION OF THE SAME LEGEND.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, p. 36.)
+
+
+
+<p>All men who came near to that hole were, it is said, pushed down into it by the <hi lang=naq>&aclick;Gã &aclick;gorip</hi><note n=A>The &aclick; is the palatal click, described in Note to Fable 24, p. 55; and indicates the nasal pronunciation of a syllable.</note> (the pusher into the hole), as he knew well where it lay. Whilst he was thus employed, there came the <hi lang=naq>Heitsi Eibip</hi>, called also <hi lang=naq>Heigeip</hi>, and saw how the <hi lang=naq>&aclick;Gã &aclick;gorip</hi> treated the people.
+
+<p>Then these two began to hunt each other round the hole, saying&mdash;
+
+<lg>
+    <l>&ldquo;Push the <hi lang=naq>Heigeip</hi> down!&rdquo;
+    <l>&ldquo;Push the <hi lang=naq>&aclick;Gã &aclick;gorip</hi> down!&rdquo;
+    <l>&ldquo;Push the <hi lang=naq>Heigeip</hi> down!&rdquo;
+    <l>&ldquo;Push the <hi lang=naq>&aclick;Gã &aclick;gorip</hi> down!&rdquo;
+</lg>
+
+<p>With these words they hunted each other round for some time; but at last the <hi lang=naq>Heigeip</hi> was pushed <pb id=pb79 n=79 facs="f:111">down. Then he said to the hole, &ldquo;Support me a little,&rdquo; and it did. Thus, being supported, he came out; and they hunted each other again with the same words:&mdash;
+
+<lg>
+    <l>&ldquo;Push the <hi lang=naq>Heigeip</hi> down!&rdquo;
+    <l>&ldquo;Push the <hi lang=naq>&aclick;Gã &aclick;gorip</hi> down!&rdquo;
+</lg>
+
+<p>A second time the <hi lang=naq>Heigeip</hi> was pushed down, and he spoke the same words: &ldquo;Support me a little,&rdquo; and thus got out again.
+
+<p>Once more these two hunted after each other, till at last the <hi lang=naq>&aclick;Gã &aclick;gorip</hi> was pushed down, and <hi>he</hi> came not up again. Since that day men breathed freely and had rest from their enemy, because he was vanquished.
+
+
+
+
+
+<pb id=pb80 n=80 facs="f:112">
+<div2 id=ch7.39 n=39>
+<head>39. THE RAISIN-EATER.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, pp. 34, 35.)
+
+
+
+<p>It is said that when <hi lang=naq>Heitsi Eibip</hi> was travelling about with his family, they came to a valley in which the raisin-tree was ripe, and he was there attacked by a severe illness. Then his young (second) wife said, &ldquo;This brave one is taken ill on account of these raisins; death is here at the place.&rdquo; The old man (<hi lang=naq>Heitsi Eibip</hi>), however, told his son <hi lang=naq>&rclick;Urisip</hi><note n=A>The <hi>&rclick;</hi> is the cerebral click described in Note to Fable 27, p. 62.</note> (the whitish one), &ldquo;I shall not live, I feel it; thou must, therefore, cover me when I am dead with soft stones.&rdquo; And he spoke further, &ldquo;This is the thing which I order you to do:&mdash;&lsquo;Of the raisin-trees of this valley ye shall not eat. For if ye eat of them I shall infect you, and ye will surely die in a similar way.&rsquo;&rdquo;
+
+<p>His young wife said, &ldquo;He is taken ill on account of the raisins of this valley. Let us bury him quickly, and let us go.&rdquo;
+
+<pb id=pb81 n=81 facs="f:113"><p>So he died there, and was covered flatly with soft stones according as he had commanded. Then they went away from him.
+
+<p>When they had moved to another place, and were unpacking there, they heard always from the side whence they came a noise as of people eating raisins and singing. In this manner the eating and singing ran:&mdash;
+
+<lg>
+    <l>&ldquo;I, father of <hi lang=naq>&rclick;Urisip</hi>,
+    <l>Father of this unclean one,
+    <l>I, who had to eat these raisins, and died,
+    <l>And dying live.&rdquo;
+</lg>
+
+<p>The young wife perceived that the noise came from the side where the old man&apos;s grave was, and said, &ldquo;<hi lang=naq>&rclick;Urisip!</hi> Go and look!&rdquo; Then the son went to the old man&apos;s grave, where he saw traces which he recognised to be his father&apos;s footmarks, and returned home. Then the young wife said, &ldquo;It is he alone; therefore act thus:&mdash;
+
+<lg>
+    <l>&ldquo;Do so to the man who ate raisins on the windward side,
+    <l>Take care of the wind that thou creepest upon him from the leeward;
+    <l>Then intercept him on his way to the grave,
+    <pb id=pb82 n=82 facs="f:114"><l>And when thou hast caught him, do not let him go.&rdquo;
+</lg>
+
+<p>He did accordingly, and they came between the grave and <hi lang=naq>Heitsi Eibip</hi> who, when he saw this, jumped down from the raisin-trees, and ran quickly, but was caught at the grave. Then he said:
+
+<p>&ldquo;Let me go! For I am a man who has been dead that I may not infect you!&rdquo; But the young wife said, &ldquo;Keep hold of the rogue!&rdquo; So they brought him home, and from that day he was fresh and hale.
+
+
+
+
+
+<pb id=pb83 n=83 facs="f:115">
+<div2 id=ch7.40 n=40>
+<head>40. ORIGIN OF THE DIFFERENCE IN MODES OF LIFE BETWEEN HOTTENTOTS AND BUSHMEN.</head>
+
+
+    <p rend=small>(From a German original Manuscript in Sir G. Grey&apos;s Library, H. C. Knudsen&apos;s &ldquo;Notes on the Hottentots,&rdquo; pp. 7, 8.)
+
+
+
+<p>In the beginning there were two. One was blind, the other was always hunting. This hunter found at last a hole in the earth, from which game proceeded, and killed the young. The blind man, feeling and smelling them, said, &ldquo;They are not game, but cattle.&rdquo;
+
+<p>The blind man afterwards recovered his sight, and going with the hunter to this hole, saw that they were cows with their calves. He then quickly built a kraal (fence made of thorns) round them, and anointed himself, just as Hottentots (in their native state) are still wont to do.
+
+<p>When the other, who now with great trouble had to seek his game, came and saw this, he wanted to anoint himself also. &ldquo;Look here!&rdquo; said the other, &ldquo;you must throw the ointment into the fire, and afterwards use it.&rdquo; He followed this advice, and the flames <pb id=pb84 n=84 facs="f:116">flaring up into his face, burnt him most miserably; so that he was glad to make his escape. The other, however, called to him: &ldquo;Here, take the kirri (a knobstick), and run to the hills, to hunt there for honey.&rdquo;
+
+<p>Hence sprung the race of Bushmen.
+
+
+
+
+
+
+<pb id=pb85 n=85 facs="f:117">
+<div1 id=ch8 n=VIII>
+<head type=label>VIII.</head>
+
+<head>HOUSEHOLD TALES.</head>
+
+
+<div2 id=ch8.41 n=41>
+<head>41. THE LITTLE WISE WOMAN.</head>
+
+
+    <p rend=small>(The original, in the Hottentot language, is in Sir G. Grey&apos;s Library, G. Krönlein&apos;s Manuscript, p. 53.)
+
+
+
+<p>A girl, it is said, went to seek for onions. As she arrived at the place where they grew, she met with some men, one of whom was blind (<hi>i.e.</hi>, half-blind, having only one eye). As she dug (for the onions) the men helped her, digging also. When her sack was full, they said to her, &ldquo;Go, tell the other girls, that many of you may come.&rdquo; So she went home and told her companions, and early the next morning they started. But a little girl followed them. The other girls said, &ldquo;Let the little girl go back.&rdquo; But her elder sister protested against this, saying, &ldquo;She runs by herself, you need not put her into your awa-skin.&rdquo;
+
+<p>So they went all together, and having reached the onion-ground, began to dig. Now the little girl saw <pb id=pb86 n=86 facs="f:118">traces of feet, and said to the one who had guided them thither, &ldquo;Wonderful! whence so many traces? Were you not alone here?&rdquo; The other replied, &ldquo;I walked about and looked out; therefore they must of course be many.&rdquo; The child, however, did not believe that if the other girl had been alone the traces could be many, and felt uneasy; for she was a wise little woman. From time to time she rose (from her work) and peeped about, and once, while doing this, found by chance an ant-eater&apos;s hole. Still further spying about, she perceived some men, but they did not see her. She then returned and continued digging with the other girls, without, however, saying anything. But in the midst of their work she always rose and looked about her. So the others asked her, &ldquo;Why do you always spy about you, and leave off digging? What a girl!&rdquo; But she continued her work in silence. When she rose from it again, she saw the men approaching. As they drew near the One-eyed blew through a reed pipe the following air:&mdash;
+
+<p>&ldquo;To-day there shall blood flow, blood flow, blood flow!&rdquo;
+
+<p>The little girl understood what was blown on the reed. She said to the elder ones, whilst they were dancing, &ldquo;Do you also understand the tune that is blown on the reed?&rdquo; But they only said, &ldquo;What a <pb id=pb87 n=87 facs="f:119">child she is!&rdquo; So she mixed in the dance with the others; but managed while so doing to tie her sister&apos;s caross-cloak to her own, and in this manner they danced on, till it became very noisy, and then they found an opportunity to slip away.
+
+<p>On their way out the little sister asked, &ldquo;Do you understand the reed&mdash;I mean what is blown on it?&rdquo; She answered, &ldquo;I do not understand it.&rdquo; Then the little girl explained to her that the tune on the reed said, &ldquo;To-day blood shall flow!&rdquo; When they walked along, the little girl let her elder sister go first, and herself followed, walking backwards, and carefully stepping in her sister&apos;s traces, so that they thus left only one set of footmarks, and these going in a contrary direction. In this manner they arrived at the ant-eater&apos;s hole.
+
+<p>But the men killed all those girls who had remained dancing with them. When the eldest of those who had escaped heard their wailing, she said, &ldquo;Alas, my sisters!&rdquo; But the younger one answered her, &ldquo;Do you think you would have lived if you had remained there?&rdquo;
+
+<p>Now &ldquo;One-eye&rdquo; was the first to miss the sisters, and said to the other men, &ldquo;Where may the two handsome girls be who danced with me?&rdquo; The others replied, &ldquo;He lies. He has seen with his eye<corr>&rdquo;</corr> (satirically <pb id=pb88 n=88 facs="f:120">meaning he had seen wrongly). But &ldquo;One-eye&rdquo; insisted that &ldquo;two girls were truly missing.&rdquo; Then they went to find their spoor, but the traces had been rendered indistinct enough to puzzle them.
+
+<p>When the men arrived at the ant-eater&apos;s hole, they could not see that the footmarks went further, so they spied into the hole, but saw nothing. Then &ldquo;One-eye&rdquo; looked also, and he saw the girls, and cried, &ldquo;There they sit.&rdquo; The others now looked again, but still saw nothing; for the girls had covered themselves with cobwebs.
+
+<p>One of the men then took an assegai, and piercing through the upper part of the hole, hit the heel of the larger girl. But the little wise woman took hold of the assegai, and wiped off the blood. The elder sister was about to cry, but the little one warned her not.
+
+<p>When &ldquo;One-eye&rdquo; spied again, the little girl made big eyes at him. He said, &ldquo;There she sits.&rdquo; The others looked too, but as they could see nothing they said (satirically), &ldquo;He has only seen with his eye.&rdquo;
+
+<p>At last the men got thirsty, and said to &ldquo;One-eye,&rdquo; &ldquo;Stay you here, and let us go to drink, and when we have returned you may go also.&rdquo;
+
+<p>When &ldquo;One-eye&rdquo; was left alone there, the little girl said (conjuring him):
+
+<pb id=pb89 n=89 facs="f:121"><lg>
+    <l>&ldquo;You dirty son of your father,
+    <l>Are you there? Are you alone not thirsty?
+    <l>Oh, you dirty child of your father!
+    <l>Dirty child of your father!&rdquo;
+</lg>
+
+<p>&ldquo;I am indeed thirsty,&rdquo; said &ldquo;One-eye,&rdquo; and went away.
+
+<p>Then the two girls came out of the hole, and the younger one took her elder sister on her back, and walked on. As they were going over the bare, treeless plain, the men saw them, and said, &ldquo;There they are, far off,&rdquo; and ran after them.
+
+<p>When they came near, the two girls turned themselves into thorn trees, called &ldquo;Wait-a-bit,&rdquo; and the beads which they wore became gum on the trees. The men then ate of the gum and fell asleep. Whilst they slept, the girls smeared gum over the men&apos;s eyes and went away, leaving them lying in the sun.
+
+<p>The girls were already near their kraal, when &ldquo;One-eye&rdquo; awoke, and said:
+
+<lg>
+    <l>&ldquo;Oh, the disgrace! fie on thee!
+    <l>Our eyes are smeared over; fie on thee, my brother!&rdquo;
+</lg>
+
+<p>Then they removed the gum from their eyes, and hunted after the girls; but the latter reached home in safety, and told their parents what had happened.
+
+<p>Then all lamented greatly, but they remained quietly at home, and did not search for the other girls.
+
+
+
+
+
+<pb id=pb90 n=90 facs="f:122">
+<div2 id=ch8.42 n=42>
+<head>42. THE UNREASONABLE CHILD TO WHOM THE DOG GAVE ITS DESERTS;</head>
+
+<head type=sub>OR, A RECEIPT FOR PUTTING ANY ONE TO SLEEP.</head>
+
+
+    <p rend=small>(The original, in the o Tyi-hereró or Dámara language, is in Sir G. Grey&apos;s Library, J. Rath&apos;s Manuscript, pp. 39, 43.)
+
+
+
+<p>There was a little girl who had an <hi lang=naq>eïngi</hi> (pronounced <hi lang=naq>a-inghi</hi>, some kind of fruit). She said to her Mother, &ldquo;Mother, why is it that you do not say, &lsquo;My first-born, give me the <hi lang=naq>eïngi</hi>?&rsquo; Do I refuse it?&rdquo;
+
+<p><corr sic="&ldquo;"></corr>Her Mother said, &ldquo;My first-born, give me the <hi lang=naq>eïngi</hi>.&rdquo; She gave it to her and went away, and her Mother ate the <hi lang=naq>eïngi</hi>.
+
+<p>When the child came back, she said, &ldquo;Mother, give me my <hi lang=naq>eïngi</hi>?&rdquo; but her Mother answered, &ldquo;I have eaten the <hi lang=naq>eïngi</hi>!&rdquo;
+
+<p>The child said, &ldquo;Mother, how is it that you have eaten my <hi lang=naq>eïngi</hi>, which I plucked from our tree?&rdquo; The Mother then (to appease her) gave her a needle.
+
+<p>The little girl went away and found her Father sewing thongs with thorns; so she said, &ldquo;Father, how is it that you sew with thorns? Why do not you say, <pb id=pb91 n=91 facs="f:123">&lsquo;My first-born, give me your needle?&rsquo; Do I refuse?&rdquo; So her Father said, &ldquo;My first-born, give me your needle.&rdquo; She gave it to him and went away for a while. Her Father commenced sewing, but the needle broke; when, therefore, the child came back and said, &ldquo;Father, give me my needle,&rdquo; he answered, &ldquo;The needle is broken;&rdquo; but she complained about it, saying, &ldquo;Father, how is it that you break my needle, which I got from Mother, who ate my <hi lang=naq>eïngi</hi>, which I had plucked from our tree?&rdquo; Her Father then gave her an axe.
+
+<p>Going farther on she met the lads who were in charge of the cattle. They were busy taking out honey, and in order to get at it they were obliged to cut down the trees with stones. She addressed them: &ldquo;Our sons, how is it that you use stones in order to get at the honey? Why do not you say, &lsquo;Our first-born, give us the axe?&rsquo; Do I refuse, or what do I?&rdquo; They said, &ldquo;Our first-born, give us the axe.&rdquo; So she gave it them, and went away for some time. The axe broke entirely. When she came back she asked, &ldquo;Where is the axe? Please give it me.&rdquo; They answered, &ldquo;The axe is broken.&rdquo; She then said, &ldquo;How is it that you break my axe, which I had received from Father who had broken my needle, which I got from Mother who had eaten my <hi lang=naq>eïngi</hi>, which I <pb id=pb92 n=92 facs="f:124">had plucked from our tree?&rdquo; But they gave her some honey (to comfort her).
+
+<p>She went her way again, and met a little old woman, eating insects, to whom she said, &ldquo;Little old woman, how is it that you eat insects? Why don&apos;t you say, &lsquo;My first-born, give me honey?&rsquo; Do I refuse or not?&rdquo; Then the little old woman asked, &ldquo;My first-born, give me honey.&rdquo; She gave it her and went away; but presently returning, said, &ldquo;Little old woman, let me have my honey!&rdquo; Now the old woman had managed to eat it all during her absence, so she answered, &ldquo;Oh! I have eaten the honey!&rdquo; So the child complained, saying, &ldquo;How is it that you eat my honey, which I received from the lads of our cattle, from our children who had broken my axe, which had been given me by Father who had broken my needle, which was a present from my Mother who had eaten up my <hi lang=naq>eïngi</hi>, that I had plucked from our tree?&rdquo;
+
+<p>The little old woman gave her food, and she went away. This time she came to the pheasants, who scratched the ground; and she said, &ldquo;Pheasants! how is it that you scratch the ground? Why do not you say, &lsquo;First-born, give us food?&rsquo; Do I refuse, or what do I?&rdquo; They said, &ldquo;First-born, give.&rdquo; So she gave to them, and went away. When she came <pb id=pb93 n=93 facs="f:125">back and demanded her food again, they said, &ldquo;We have eaten the food.&rdquo; She asked, &ldquo;How is it that you eat my food, which I had received from a little old woman who had eaten up my honey, that I had got from the lads of our cattle who had broken my axe, which had been given me by my Father who had broken my needle, which was a present from my Mother who had eaten my <hi lang=naq>eïngi</hi>, which I had plucked from our tree?&rdquo; The pheasants, flying up, pulled out each one a feather and threw them down to the little girl.
+
+<p>She then, walking along, met the children who watched the sheep. They were plucking out hairs from the sheep-skins. So she asked them, &ldquo;How is it that you pull at these skins? Why do not you say, &lsquo;First-born, give us the feathers?&rsquo; Do I refuse, or what do I?&rdquo; They said, &ldquo;First-born, give us the feathers.&rdquo; She gave them and went away, but all the feathers broke. When she returned and said, &ldquo;Give me my feathers,&rdquo; they answered, &ldquo;The feathers are broken.&rdquo; Then she complained, &ldquo;Do you break my feathers which I received from the pheasants who had eaten my food, which had been given me by a little old woman?&rdquo; They gave her some milk.
+
+<p>She went again on her way, and found their own <pb id=pb94 n=94 facs="f:126">handsome dog gnawing bones. She said, &ldquo;Our dog, how is it that you gnaw these bones?&rdquo; The dog answered, &ldquo;Give me milk.&rdquo; She gave it him, and he drank it all. Then she said to the dog, &ldquo;Give me back my milk.&rdquo; He said, &ldquo;I drank it.&rdquo; She then repeated the same words which she had spoken so often before; but the dog ran away, and when she pursued him, he scampered up a tree. She climbed up after him, but the dog jumped down again on the other side. She wanted to do the same, but could not. Then she said, &ldquo;Our dog, please help me down.&rdquo; He answered, &ldquo;Why did you pursue me?&rdquo; and ran away leaving her up the tree.
+
+<p>&ldquo;That is enough,&rdquo; say the Damara.
+
+
+
+
+
+
+<pb id=pb95 n=95 facs="f:127">
+</body>
+<back id=backmatter>
+<div1 id=ad type=Advertisement>
+
+<p rend=center><hi rend=xl>LINGUISTIC PUBLICATIONS</hi> <lb><hi rend=xs>OF</hi> <lb><hi rend="xl bold sans">TRÜBNER &amp; Co.,</hi> <lb><hi rend=large>60, PATERNOSTER ROW, LONDON, E.C.</hi>
+
+
+<p rend="center large sans">MAORI MEMENTOS:
+
+<p rend=small>Being a Series of Addresses presented by the Native People to His Excellency <hi rend=sc>Sir George Grey</hi>, K.C.B., F.R.S. With Introductory Remarks and Explanatory Notes; to which is added a small Collection of Laments, &amp;c.
+
+<p rend=center><hi rend=sc>By</hi> CH. OLIVER B. DAVIS.
+
+<p rend="center small">8vo., pp. iv. and 228, cloth. Price 12s.
+
+
+<p rend="center large sans">HANDBOOK OF AFRICAN, AUSTRALIAN, AND POLYNESIAN PHILOLOGY,
+
+<p rend=small>As represented in the Library of His Excellency <hi rend=sc>Sir Geo. Grey</hi>, K.C.B., Her Majesty&apos;s High Commissioner of the Cape Colony. Classed, Annotated, and Edited by
+
+<p><hi rend=sc>Sir</hi> GEORGE GREY <hi rend=sc>and Dr.</hi> H. I. BLEEK.
+
+<list rend=small>
+    <item>Vol. I. Part 1.&mdash;South Africa, 8vo., pp. 186. 7s. 6d.
+    <item>Vol. I. Part 2.&mdash;Africa (North of the Tropic of Capricorn), 8vo., pp. 70. 2s.
+    <item>Vol. I. Part 3.&mdash;Madagascar, 8vo., pp. 24. 1s.
+    <item>Vol. II. Part 1.&mdash;Australia, 8vo., pp. iv. and 44. 1s. 6d.
+    <item>Vol. II. Part 2.&mdash;Papuan Languages of the Loyalty Islands and New Hebrides, comprising those of the Islands of Nengone, Lifu, Aneitum, Tana, and others, 8vo., pp. 12. 6d.
+    <item>Vol. II. Part 3.&mdash;Fiji Islands and Rotuma (with Supplement to Part II., Papuan Languages, and Part I., Australia), 8vo., pp. 34. 1s.
+    <item>Vol. II. Part 4.&mdash;New Zealand, the Chatham Islands, and Auckland Islands, 8vo., pp. 76. 3s. 6d.
+    <item>Vol. II. Part 4 (<hi>continuation</hi>).&mdash;Polynesia and Borneo, 8vo., pp. 77&ndash;154. 3s. 6d.
+    <item>Vol. III. Part 1. Manuscripts and Incunables, 8vo., pp. viii. and 24. 2s.
+</list>
+
+
+<pb id=pb96 n=96 facs="f:128"><p rend="center large sans">A COMPARATIVE GRAMMAR OF SOUTH AFRICAN LANGUAGES.
+
+<p rend=center><hi rend=sc>By Dr.</hi> W. H. I. BLEEK.
+
+<p rend=center>Will be completed in Four Parts. Part I., pp. 104, sewed. 5s.
+
+
+<p rend="center large sans">THE ISIZULU: A GRAMMAR OF THE ZULU LANGUAGE;
+
+<p rend=center>Accompanied with a Historical Introduction, also with an Appendix.
+
+<p rend=center><hi rend=sc>By Rev.</hi> LEWIS GROUT.
+
+<p rend="center small">8vo., pp. liii. and 432, cloth. 21s.
+
+
+<p rend="center large sans">KAFIR ESSAYS,
+
+<p rend=center>And other Pieces; with an English Translation. Edited by
+
+<p rend=center><hi rend=sc>The Right Rev. the Bishop of</hi> GRAHAMSTOWN.
+
+<p rend="center small">32mo., pp. 84, sewed. 2s. 6d.
+
+
+<p rend="center large sans">A GRAMMAR AND VOCABULARY OF THE NAMAQUA-HOTTENTOT LANGUAGE.
+
+<p rend=center><hi rend=sc>By</hi> HENRY TINDALL, <hi rend=sc>Wesleyan Missionary</hi>.
+
+<p rend="center small">8vo., pp. 124, sewed. 6s.
+
+
+<p rend="center large sans">FIRST LESSONS IN THE MAORI LANGUAGE,
+
+<p rend=center><hi rend=sc>With a Short Vocabulary</hi>.
+
+<p rend=center><hi rend=sc>By</hi> W. L. WILLIAMS, B.A.
+
+<p rend="center small">Square 8vo., pp. 80, cloth. London, 1862. 3s. 6d.
+
+
+
+</div1>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[ ] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (https://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (https://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (https://www.worldcat.org).
+[ ] Generate unique epub-id. (https://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend=&ldquo;indent(2)&rdquo;
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2.
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Posting
+
+[ ] Make sure dp-post@pgdp.net is cc-ed on upload
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
